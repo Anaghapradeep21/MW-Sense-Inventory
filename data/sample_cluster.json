@@ -1,0 +1,1008 @@
+[
+    {
+        "Head": "H1",
+        "Lemma": "agra",
+        "Derivation": "a/gra",
+        "Category": "praatipadika",
+        "Sense": {
+            "foremost, anterior, first, prominent, projecting, chief, best": 0,
+            "supernumerary": 1,
+            "foremost point, part": 2,
+            "tip": 3,
+            "front": 4,
+            "uppermost part, top, summit, surface": 5,
+            "point": 6,
+            "and hence, figuratively, sharpness": 7,
+            "the nearest end, the beginning": 8,
+            "the climax, best part": 9,
+            "goal, aim": 10,
+            "multitude": 11,
+            "a weight, equal to a pala": 12,
+            "a measure of food given as alms": 13,
+            "the sun's amplitude": 14
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "agra",
+        "Derivation": "agra",
+        "Category": "praatipadika",
+        "Sense": {
+            "rest, remainder": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "arTa",
+        "Derivation": "a/rTa",
+        "Category": "praatipadika",
+        "Sense": {
+            "aim, purpose": 0,
+            "cause, motive, reason": 1,
+            "advantage, use, utility": 2,
+            "thing, object": 3,
+            "object of the senses": 4,
+            "the number five": 5,
+            "substance, wealth, property, opulence, money": 6,
+            "Name of the second mansion, the mansion of wealth": 7,
+            "personified as the son of Dharma, Buddhi": 8,
+            "affair, concern, to go to one's business, take up one's work": 9,
+            "lawsuit, action": 10,
+            "having to do with, wanting, needing anything": 11,
+            "sense, meaning, notion": 12,
+            "manner, kind, prohibition, prevention": 13,
+            "price": 14
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "uttara",
+        "Derivation": "u/ttara",
+        "Category": "praatipadika",
+        "Sense": {
+            "upper, higher, superior": 0,
+            "northern": 1,
+            "left": 2,
+            "later, following, subsequent, latter, concluding, posterior, future": 3,
+            "followed by": 4,
+            "superior, chief, excellent, dominant, predominant, more powerful": 5,
+            "gaining a cause": 6,
+            "better, more excellent": 7,
+            "Name of a son of Virāṭa": 8,
+            "Name of a king of the Nāgas": 9,
+            "Name of a mountain": 10,
+            "of several men": 11,
+            "Name of a school": 12,
+            "upper surface, cover": 13,
+            "the north": 14,
+            "the following member, the last part of a compound": 15,
+            "answer, reply": 16,
+            "a defence, rejoinder, a defensive measure": 17,
+            "contradiction": 18,
+            "the answer": 19,
+            "superiority, excellence, competency": 20,
+            "result, the chief, prevalent result, characteristic, what remains, is left, conclusion, remainder, excess, over, above": 21,
+            "remainder, difference": 22,
+            "Name of a song": 23,
+            "Name of each of the Nakṣatras that contain the word uttara": 24,
+            "a particular figure in rhetoric": 25,
+            "Name of the last book of the Rāmāyaṇa": 26
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "uttara",
+        "Derivation": "u/t-tara",
+        "Category": "cpd-praatipadika",
+        "Sense": {
+            "crossing over": 0,
+            "to be crossed": 1
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "eka",
+        "Derivation": "e/ka",
+        "Category": "praatipadika",
+        "Sense": {
+            "one, with preceding, following, no one, nobody": 0,
+            "alone, solitary, single, happening only once, that one only": 1,
+            "the same, one, the same, identical": 2,
+            "one of two, many": 3,
+            "one, one by one": 4,
+            "single of its kind, unique, singular, chief, pre-eminent, excellent": 5,
+            "sincere, truthful": 6,
+            "little, small": 7,
+            "a, an": 8,
+            "Name of a teacher": 9,
+            "Name of a son of Raya": 10,
+            "unity, a unit": 11
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "eva",
+        "Derivation": "eva/",
+        "Category": "avyaya",
+        "Sense": {
+            "so, just so, exactly so": 0,
+            "indeed, truly, really": 1,
+            "just, exactly, very, same, only, even, alone, merely, immediately on, still, already": 2,
+            "is a mere expletive without any exact meaning and not translatable implies emphasis, affirmation, detraction, diminution, command, restrainment": 3
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "eva",
+        "Derivation": "e/va",
+        "Category": "praatipadika",
+        "Sense": {
+            "going, moving, speedy, quick": 0,
+            "course, way": 1,
+            "the earth, world": 2,
+            "a horse": 3,
+            "way, manner of acting, proceeding, conduct, habit, usage, custom": 4
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "karman",
+        "Derivation": "ka/rman",
+        "Category": "praatipadika",
+        "Sense": {
+            "act, action, performance, business": 0,
+            "office, special duty, occupation, obligation": 1,
+            "any religious act, rite": 2,
+            "work, labour, activity": 3,
+            "physicking, medical attendance": 4,
+            "action consisting in motion": 5,
+            "calculation": 6,
+            "product, result, effect": 7,
+            "organ of sense": 8,
+            "the object": 9,
+            "former act as leading to inevitable results, fate": 10,
+            "the tenth lunar mansion": 11
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "kavi",
+        "Derivation": "kavi/",
+        "Category": "praatipadika",
+        "Sense": {
+            "gifted with insight, intelligent, knowing, enlightened, wise, sensible, prudent, skilful, cunning": 0,
+            "a thinker, intelligent man, man of understanding, leader": 1,
+            "Name of the Soma": 2,
+            "Name of the Soma priest, Name of other sacrificers": 3,
+            "Name of a particular poet": 4,
+            "Name of the ancient sages, Name of ancient patriarchs": 5,
+            "Name of the Ṛbhus": 6,
+            "Name of Pūṣan": 7,
+            "Name of a son of Brahmā": 8,
+            "Name of Brahmā": 9,
+            "Name of a son of Bhṛgu, father of Śukra": 10,
+            "Name of Śukra": 11,
+            "Name of the planet Venus": 12,
+            "Name of the sons of several Manus": 13,
+            "Name of a son of Kauśika, pupil of Garga": 14,
+            "Name of a son of Ṛṣabha": 15,
+            "Name of Vālmīki": 16,
+            "a keeper, herd": 17,
+            "Name of the gates of the sacrificial enclosure": 18,
+            "the sun": 19,
+            "of various men": 20,
+            "the soul in the Sāṃkhya philosophy": 21,
+            "a cunning fighter": 22,
+            "an owl": 23,
+            "the bit of a bridle": 24,
+            "the reins": 25,
+            "a ladle": 26
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "kavi",
+        "Derivation": "kav",
+        "Category": "praatipadika",
+        "Sense": {
+            "a wise man, sage, seer, prophet": 0,
+            "a singer, bard, poet": 1,
+            "Name of several gods, Name of Agni": 2,
+            "Name of Varuṇa, Name of Indra, Name of the Aśvins, Name of Maruts, Name of Ādityas": 3
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "kAla",
+        "Derivation": "kAla",
+        "Category": "praatipadika",
+        "Sense": {
+            "black, of a dark colour, dark-blue": 0,
+            "a black, dark-blue colour": 1,
+            "the black part of the eye": 2,
+            "the Indian cuckoo": 3,
+            "the poisonous serpent Coluber Naga": 4,
+            "the plant Cassia Sophora": 5,
+            "a red kind of Plumbago": 6,
+            "the resin of the plant Shorea robusta": 7,
+            "the planet Saturn": 8,
+            "Name of Śiva": 9,
+            "Name of Rudra": 10,
+            "Name of a son of Hrada": 11,
+            "of the prince Kāla-yavana": 12,
+            "Name of a brother of king Prasena-jit": 13,
+            "Name of a future Buddha": 14,
+            "Name of an author of Mantras": 15,
+            "Name of a Nāga-rāja": 16,
+            "Name of a Rakṣas": 17,
+            "Name of an enemy of Śiva": 18,
+            "Name of a mountain": 19,
+            "of one of the nine treasures": 20,
+            "a mystical Name of the letter": 21,
+            "a black kind of Agallochum": 22,
+            "a kind of perfume": 23,
+            "iron": 24
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "kAla",
+        "Derivation": "kAla/",
+        "Category": "praatipadika",
+        "Sense": {
+            "a fixed, right point of time, a space of time, time": 0,
+            "the proper time, season for": 1,
+            "occasion, circumstance": 2,
+            "season": 3,
+            "meal-time": 4,
+            "hour": 5,
+            "a period of time, time of the world": 6,
+            "measure of time, prosody": 7,
+            "a section, part": 8,
+            "the end": 9,
+            "death by age": 10,
+            "time, destiny, fate": 11,
+            "time, death, time of death": 12
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "kf",
+        "Derivation": "kf",
+        "Category": "dhaatu",
+        "Sense": {
+            "a fog": 0,
+            "being done": 1,
+            "to injure": 2
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "gam",
+        "Derivation": "gam",
+        "Category": "dhaatu",
+        "Sense": {
+            "to go, move, go away, set out, come, to go to, towards, approach, to go, pass, to fall to the share of, to go against with hostile intentions, attack, to decease, die, to approach carnally, have sexual intercourse with, to go to any state, condition, undergo, partake of, participate in, receive, obtain, to go to the earth with the knees, kneel down, to go to the earth with the head, make a bow, to go with the mind, observe, perceive, to observe, understand, guess, to approach with an accusation, ascribe guilt to a person, bring to a place, to cause to go to any condition, cause to become, to impart, grant, to send away,to let go, not care about, to excel, to spend time, to cause to understand, make clear, intelligible, explain, to convey an idea, meaning, denote, to cause a person to go by means of another, to wish to go, be going, to strive to obtain, to wish to bring.": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "grah",
+        "Derivation": "grah",
+        "Category": "dhaatu",
+        "Sense": {
+            "grasp, lay hold of, to eclipse, to abstract, take away, to lay the hand on, claim, to gain, win, obtain, receive, accept, keep, to acquire by purchase, to choose, to choose any one as a wife, to take up, draw water, to pluck, pick, gather, to collect a store of anything, to use, put on, to assume, to place upon, to include, to take on one's self, undertake, undergo, begin, to receive hospitably, take back,to take into the mouth, mention, name, to perceive, observe, recognise, to observe, to receive into the mind, apprehend, understand, learn, to calculate, to accept, admit, approve, to obey, follow, to take for, consider as, to be meant by, to cause to take, seize, lay hold of, to cause to take, to cause to marry, give away a girl in marriage to any one, to cause any one to be captured, to cause any one to be seized, overpowered over to any one, to make any one choose, to make any one learn, make acquainted, familiar with, to be about to seize, take, to be about to eclipse, to be about to take away, to desire to perceive, strive to apprehend, recognise": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "citra",
+        "Derivation": "citra/",
+        "Category": "praatipadika",
+        "Sense": {
+            "conspicuous, excellent, distinguished": 0,
+            "bright, clear, bright-coloured": 1,
+            "clear": 2,
+            "variegated, spotted, speckled": 3,
+            "agitated": 4,
+            "various, different, manifold": 5,
+            "having different varieties": 6,
+            "strange, wonderful": 7,
+            "containing the word": 8,
+            "variety of colour, ": 9,
+            "Plumbago zeylanica": 10,
+            "Ricinus communis": 11,
+            "Jonesia Aśoka": 12,
+            "a form of Yama": 13,
+            "Name of a king": 16,
+            "Name of a Jābāla-gṛhapati": 15,
+            "Name of a son of Dhṛtarāṣṭra": 17,
+            "Name of a Draviḍa king": 18,
+            "Name of a Gandharva": 19,
+            "anything bright, coloured which strikes the eyes": 20,
+            "a brilliant ornament, ornament": 21,
+            "a bright, extraordinary appearance, wonder": 22,
+            "strange, curious": 23,
+            "strange!": 24,
+            "the ether, sky": 25,
+            "a spot": 26,
+            "a sectarial mark on the forehead": 27,
+            "a picture, sketch, delineation": 28,
+            "variety of colour": 29,
+            "a forestof variegated appearance  on": 30,
+            "various modes of writing, arranging verses in the shape of mathematical, other fanciful figures": 31,
+            "punning in the form of question, answer, facetious conversation, riddle": 32
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "citra",
+        "Derivation": "citra",
+        "Category": "praatipadika",
+        "Sense": {
+            "leaping to, fro": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "tatas",
+        "Derivation": "ta/tas",
+        "Category": "praatipadika",
+        "Sense": {
+            "from that place, thence": 0,
+            "in that place, there": 1,
+            "thither": 2,
+            "thereupon, then, after that, afterwards": 3,
+            "from that, in consequence of that, for that reason, consequently": 4,
+            "but, how is it then that?": 5,
+            "immediately afterwards": 6,
+            "beyond that": 7,
+            "besides that, further": 8,
+            "thereupon, afterwards": 10,
+            "thenceforth": 11,
+            "what then? what took place after that?": 12,
+            "from that, that place, here, there, hither, thither, from all sides, to everyplace, everywhere": 13,
+            "to that place": 14,
+            "to another place than that, to some other place": 15,
+            "afterwards, at another time": 16
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "tad",
+        "Derivation": "ta/d",
+        "Category": "praatipadika",
+        "Sense": {
+            "he she it, that, this": 0,
+            "this world": 1,
+            "Brahma": 2,
+            "there, in that place, thither, to that spot": 3,
+            "then, at that time, in that case": 4,
+            "thus, in this manner, with regard to that": 5,
+            "with reference to that there are these two verses": 6,
+            "on that account, for that reason, therefore, consequently": 7,
+            "now": 8,
+            "so also, equally": 9
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "tad",
+        "Derivation": "tad",
+        "Category": "praatipadika",
+        "Sense": {
+            "this, that, various, different": 0,
+            "respective": 1,
+            "on quite the same path": 2,
+            "whosoever, whichsoever, any, every": 3,
+            "even then, nevertheless, notwithstanding": 4,
+            "in such a manner as follows, namely, namely, in other words. From Latin videlicet": 5
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "tu",
+        "Derivation": "tu",
+        "Category": "dhaatu",
+        "Sense": {
+            "to have authority, be strong, to go, to injure, to make strong, efficient": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "tu",
+        "Derivation": "tu/",
+        "Category": "avyaya",
+        "Sense": {
+            "pray! I beg, do, now, then, Latindum used": 0,
+            "but": 1,
+            "often incorrectly written for": 2,
+            "sometimes used as a mere expletive": 3,
+            "though — still not": 4,
+            "not — but": 5,
+            "though — still": 6,
+            "it is true — but not, ere - than": 7,
+            "it is true — but not, ere — than": 8,
+            "still, nevertheless": 9,
+            "not — however": 10,
+            "certainly — but": 11
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "dfS",
+        "Derivation": "dfS",
+        "Category": "praatipadika",
+        "Sense": {
+            "  to see, behold, look at, regard, consider, to wait on, visit, to see with the mind, learn, understand, to notice, care for, look into, try, examine, to see by divine intuition, think, find out, compose, contrive Aorist, to be seen, become visible, appear, to be shown, manifested, appear, to cause to see, be seen, to show a thing, person, to, to show or prove, demonstrate, to produce or pay, to wish to see, long for, to wish to show, to be always visible": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "dfS",
+        "Derivation": "df/S",
+        "Category": "praatipadika",
+        "Sense": {
+            "seeing, viewing, looking at": 0,
+            "knowing, discerning": 1,
+            "sight, view": 2,
+            "look, appearance": 3,
+            "the eye": 4,
+            "theory, doctrine": 5,
+            "the aspect of a planet, the observed spot": 6
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "Darma",
+        "Derivation": "Da/rma",
+        "Category": "praatipadika",
+        "Sense": {
+            "that which is established, firm, steadfast decree, statute, ordinance, law": 0,
+            "usage, practice, customary observance, prescribed conduct, duty": 1,
+            "right, justice": 2,
+            "virtue, morality, religion, religious merit, good works": 3,
+            "Law, Justice personified": 4,
+            "the law, doctrine of Buddhism": 5,
+            "the ethical precepts of Buddhism": 6,
+            "the law of Northern Buddhism": 7,
+            "nature, character, peculiar condition, essential quality, property, mark, peculiarity": 8,
+            "a particular ceremony": 9,
+            "sacrifice": 10,
+            "the ninth mansion": 11,
+            "an Upaniṣad": 12,
+            "associating with the virtuous": 13,
+            "religious abstraction, devotion": 14,
+            "a bow": 15,
+            "a Soma-drinker": 16,
+            "Name of the 15th Arhat of the present Ava-sarpiṇī": 17,
+            "Name of a son of Anu, father of Ghṛta": 18,
+            "Name of a son of Gāndhāra, f° of Dhṛta": 19,
+            "Name of a son of Haihaya, f° of Netra": 20,
+            "Name of a son of Pṛthu-śravas, of Uśanas": 21,
+            "Name of a son of Su-vrata": 22,
+            "Name of a son of Dīrgha-tapas": 23,
+            "Name of a king of Kaśmīra": 24,
+            "Name of another man": 25,
+            "Name of a lexicographer": 26
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "Darma",
+        "Derivation": "Darma",
+        "Category": "praatipadika",
+        "Sense": {
+            "a thing": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "Darma",
+        "Derivation": "Darma",
+        "Category": "naama-dhaatu",
+        "Sense": {
+            "to become, law": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "prakfti",
+        "Derivation": "pra-kfti",
+        "Category": "cpd-praatipadika",
+        "Sense": {
+            "making, placing before, at first, the original, natural form, condition of anything, original, primary substance": 0,
+            "cause, original source": 1,
+            "origin, extraction": 2,
+            "nature, character, constitution, temper, disposition, by nature, naturally, unalterably, properly": 3,
+            "fundamental form, pattern, standard, model, rule": 4,
+            "the original producer of the material world, Nature": 5,
+            "the 8 producers, primary essences which evolve the whole visible world": 6,
+            "a goddess, the personified will of the Supreme in the creation": 7,
+            "Name of a class of deities under Manu Raibhya": 8,
+            "a king's ministers, the body of ministers, counsellors, ministry": 9,
+            "the subjects of a king, citizens, artisans": 10,
+            "the constituent elements, powers of the state": 11,
+            "the various sovereigns to be considered in case of war": 12,
+            "the crude, elementary form of a word, base, root, an uninflected word, ": 13,
+            "Name of 2 classes of metres": 14,
+            "a co-efficient multiplier": 15,
+            "temperament, the predominance of one of the humours at the time of generation": 16,
+            "the third nature, a eunuch": 17,
+            "matter, affair": 18,
+            "the male, female organ of generation": 19,
+            "a woman, womankind": 20,
+            "a mother": 21,
+            "an animal": 22,
+            "Name of a woman": 23,
+            "Name of work": 24
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "banD",
+        "Derivation": "banD",
+        "Category": "dhaatu",
+        "Sense": {
+            "to bind, tie, fix, fasten, chain, fetter, to bind round, put on, to catch, take, hold captive, to attach to world, to sin, to fix, direct, fasten, rivet on, to arrest, hold back, restrain, suppress, stop, shut, close, to bind a sacrificial victim, offer, sacrifice, to punish, chastise, to join, unite, put together, produce anything in this way, fold, clench, knit, bend, arrange, assume, set up, construct, span, bridge over, conceive, contract, compose, construct, to form, produce in any way, cause, effect, do, make, bear, strike, take up, to entertain, cherish, show, exhibit, betray to be bound by the fetters of existence, evil, sin again, to be affected by id est, that is experience, suffer, to cause to bind, catch, capture, imprison, to cause to be built, constructed, to cause to be embanked, dammed up, to bind together.": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "brahman",
+        "Derivation": "bra/hman",
+        "Category": "praatipadika",
+        "Sense": {
+            "pious effusion, utterance, outpouring of the heart in worshipping the gods, prayer": 0,
+            "the sacred word, the Veda, a sacred text, a text, Mantra used as a spell": 1,
+            "the Brāhmaṇa portion of the Veda": 2,
+            "the sacred syllable Om, ": 3,
+            "religious, spiritual knowledge": 4,
+            "holy life": 5,
+            "the Brahmă, one self-existent impersonal Spirit, the one universal Soul, the Self-existent, the Absolute, the Eternal": 6,
+            "the class of men who are the repositories, communicators of sacred knowledge, the Brāhmanical caste as a body": 7,
+            "food": 8,
+            "wealth": 9,
+            "final emancipation": 10
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "brahman",
+        "Derivation": "brahma/n",
+        "Category": "praatipadika",
+        "Sense": {
+            "one who prays, a devout, religious man, a Brāhman who is a knower of Vedic texts, spells, one versed in sacred knowledge": 0,
+            "Name of Bṛhas-pati": 1,
+            "one of the 4 principal priests, Ṛtvijas": 2,
+            "Brahmā, the one impersonal universal Spirit manifested as a personal Creator, as the first of the triad of personal gods": 3,
+            "a lifetime of Brahmā": 4,
+            "an inhabitant of Brahmā's heaven": 5,
+            "the sun": 6,
+            "Name of Śiva, ": 7,
+            "the Veda": 8,
+            "the intellect": 9,
+            "Name of a star, δ Aurigae": 10,
+            "a particular astronomy Yoga": 11,
+            "Name of the 9th Muhūrta": 12,
+            "a particular Kalpa": 13,
+            "Name of the servant of the 10th Arhat of the present Avasarpiṇī": 14,
+            "Name of a magician": 15
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "BAva",
+        "Derivation": "BAva/",
+        "Category": "praatipadika",
+        "Sense": {
+            "becoming, being, existing, occurring, appearance": 0,
+            "turning, transition into": 1,
+            "continuance": 2,
+            "state, condition, rank": 3,
+            "true condition, state, truth, reality": 4,
+            "manner of being, nature, temperament, character": 5,
+            "manner of acting, conduct, behaviour": 6,
+            "any state of mind and body, way of thinking, feeling, sentiment, opinion, disposition, intention with whatever disposition of mind, to be ill disposed against, to make a firm resolution": 7,
+            "passion, emotion": 8,
+            "conjecture, supposition": 9,
+            "purport, meaning, such is the sense": 10,
+            "love, affection, attachment, to feel an affection for": 11,
+            "the seat of the feelings, affections, heart, soul, mind with a pleased mind": 12,
+            "that which is, exists, thing, substance, being, living creature all earthly objects, plants, animals": 13,
+            "a discreet, learned man": 14,
+            "the state, condition of a planet": 15,
+            "an astrological house, lunar mansion": 16,
+            "Name of the 27th Kalpa": 17,
+            "of the 8th year in Jupiter's cycle of 60 years": 18,
+            "the fundamental notion of the verb, the sense conveyed by the abstract noun": 19,
+            "Name of the author of the Bhāvaprakāśa": 20,
+            "wanton sport, dalliance": 21,
+            "birth": 22,
+            "place of birth, the womb": 23,
+            "the world, universe": 24,
+            "an organ of sense": 25,
+            "superhuman power": 26,
+            "the Supreme Being": 27,
+            "advice, instruction": 28,
+            "contemplation, meditation": 29
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "BU",
+        "Derivation": "BU",
+        "Category": "dhaatu",
+        "Sense": {
+            "Name of a Yogin": 0,
+            "a particular land-measure": 1
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "BU",
+        "Derivation": "BU/",
+        "Category": "dhaatu",
+        "Sense": {
+            "becoming, being, existing, springing, arising": 0,
+            "Name of Viṣṇu": 1,
+            "Name of an Ekāha": 2,
+            "the act of becoming, arising": 3,
+            "the place of being, space, world, universe": 4,
+            "the earth, symbolical name for the number one": 5,
+            "one of the three Vyāhṛtis": 6,
+            "earth, ground, soil, land, landed property": 7,
+            "floor, pavement": 8,
+            "a place, spot, piece of ground": 9,
+            "the base of any geometrical figure": 10,
+            "object, matter": 11,
+            "a term for the letter": 12,
+            "a sacrificial fire": 13
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "mad",
+        "Derivation": "mad",
+        "Category": "dhaatu",
+        "Sense": {
+            "base of the first person pronoun in the singular number number": 0,
+            "to rejoice, be glad, exult, delight, revel in, be drunk with, to enjoy heavenly bliss, to boil, bubble, to gladden, exhilarate, intoxicate, animate, inspire, to gladden, delight, satisfy, exhilarate, intoxicate, inflame, inspire, to be glad, rejoice, be pleased, happy, at ease, to enjoy heavenly bliss, ": 1,
+            "to tarry, stand still, pause": 2
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "muc",
+        "Derivation": "muc",
+        "Category": "dhaatu",
+        "Sense": {
+            "  to cheat": 0,
+            "to loose, let loose, free, let go, slacken, release, liberate, to spare, let live, to set free, allow to depart, dismiss, despatch, to relinquish, abandon, leave, quit, give up, set aside, depose, to yield, grant, bestow, to send forth, shed, emit, utter, discharge, throw, cast, hurl, shoot, to put on, to be loosed, to be set free, released, to deliver one's self from, to get rid of, escape,to abstain from, to be deprived, destitute of, to cause to loose, let go, give up, discharge, shed, to unloose, unyoke, unharness, to set free, liberate, absolve from, to redeem, to open, to give away, spend, bestow, to gladden, delight, yield enjoyment, to wish to deliver, to wish, be about to set free, to be about to give up, relinquish, to wish, intend to cast, hurl, to wish to free one's self, to desire final liberation, beatitude.": 1,
+            "freeing, delivering from": 2,
+            "letting go, letting fall, dropping, discharging, shooting, sending": 3,
+            "deliverance": 4
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "yuj",
+        "Derivation": "yuj",
+        "Category": "dhaatu",
+        "Sense": {
+            "to make ready, prepare, arrange, fit out, set to work, use, employ, apply, to equip, to offer, perform, to put on, to fix in, insert, inject, to appoint or to charge or intrust with, to command, enjoin, to turn, direct, fix, concentrate, to concentrate the mind in order to obtain union with the Universal Spirit, be absorbed in meditation, to recollect, recall, to join, unite, connect, add, bring together, to confer, bestow anything upon, to bring into possession of, furnish, endow with, to join one's self to, to come into union, conjunction with, to be yoked, harnessed, joined, to attach one's self to, to be made ready, prepared for, to be united in marriage, to be endowed with, possessed of, to come into conjunction with, to accrue to, fall to the lot of, to be fit, proper, suitable, right, suit anything, be fitted for, belong to, suit any one, deserve to be, not to be fit, proper for, to harness, yoke with, put to, to equip, draw up, to use, employ, set to work, apply, undertake, carry on, perform, accomplish, to urge, impel to, to lead towards, help to, to set, to aim at, to fasten on, attack, adjust, add, insert, to join, unite, connect, combine, bring or put together, to encompass, embrace, to put in order, arrange, repair, restore, to endow, furnish, provide with, to mix with, to confer anything upon, to ascertain or know the conjunction of the moon with an asterism, to think little of, esteem lightly, despise, to wish to harness, yoke, join, to wish to appoint or institute, to wish to fix or aim, to wish to be absorbed in meditation, devout": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "yuj",
+        "Derivation": "yu/j",
+        "Category": "dhaatu",
+        "Sense": {
+            "joined, yoked, harnessed, drawn by": 0,
+            "furnished or provided or filled with, affected by, possessed of": 1,
+            "bestowing, granting": 2,
+            "exciting, an exciter": 3,
+            "being in couples, pairs, even": 4,
+            "a yoke-fellow, companion, comrade, associate": 5,
+            "a sage who devotes his time to abstract contemplation": 6,
+            "a pair, couple, the number two": 7,
+            "dual, the two Aśvins": 8,
+            "the zodiacal sign Gemini": 9
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "yoga",
+        "Derivation": "yo/ga",
+        "Category": "praatipadika",
+        "Sense": {
+            "the act of yoking, joining, attaching, harnessing, putting to": 0,
+            "a yoke, team, vehicle, conveyance": 1,
+            "employment, use, application, performance": 2,
+            "equipping, arraying": 3,
+            "fixing": 4,
+            "putting on": 5,
+            "a remedy, cure": 6,
+            "a means, expedient, device, way, manner, method": 7,
+            "a supernatural means, charm, incantation, magical art": 8,
+            "a trick, stratagem, fraud, deceit": 9,
+            "undertaking, business, work": 10,
+            "acquisition, gain, profit, wealth, property": 11,
+            "occasion, opportunity": 12,
+            "any junction, union, combination, contact with, to agree, consent, acquiesce in anything": 13,
+            "mixing of various materials, mixture": 14,
+            "partaking of, possessing": 15,
+            "connection, relation, at the end of a compound in consequence of, on account of, by reason of, according to, through": 16,
+            "putting together, arrangement, disposition, regular succession": 17,
+            "fitting together, fitness, propriety, suitability": 18,
+            "exertion, endeavour, zeal, diligence, industry, care, attention": 19,
+            "application, concentration of the thoughts, abstract contemplation, meditation, self-concentration, abstract meditation, mental abstraction practised as a system": 20,
+            "any simple act, rite conducive to Yoga, abstract meditation": 21,
+            "Yoga personified": 22,
+            "a follower of the Yoga system": 23,
+            "the union of soul with matter": 24,
+            "the union of the individual soul with the universal soul": 25,
+            "devotion, pious seeking after God": 26,
+            "contact, mixing with the outer world": 27,
+            "conjunction, lucky conjuncture": 28,
+            "a constellation, asterism": 29,
+            "the leading, principal star of a lunar asterism": 30,
+            "Name of a variable division of time": 31,
+            "addition, sum, total": 32,
+            "the connection of words together, syntactical dependence of a word, construction": 33,
+            "a combined, concentrated grammatical rule, aphorism, ": 34,
+            "the connection of a word with its root, original, etymological meaning, ": 35,
+            "a violator of confidence, spy": 36,
+            "Name of a  on the Paramārthasāra": 37
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "rasa",
+        "Derivation": "ra/sa",
+        "Category": "praatipadika",
+        "Sense": {
+            "the sap, juice of plants, juice of fruit, any liquid, fluid, the best, finest, prime part of anything, essence, marrow": 0,
+            "water, liquor, drink": 1,
+            "juice of the sugar-cane, syrup": 2,
+            "any mixture, draught, elixir, potion": 3,
+            "melted butter": 4,
+            "milk": 5,
+            "poison": 6,
+            "nectar": 7,
+            "soup, broth": 8,
+            "a constituent fluid, essential juice of the body, serum, the primary juice called chyle": 9,
+            "mercury, quicksilver": 10,
+            "semen virile": 11,
+            "myrrh": 12,
+            "any mineral, metallic salt": 13,
+            "a metal, mineral in a state of fusion": 14,
+            "gold": 15,
+            "Vangueria Spinosa": 16,
+            "a species of amaranth": 17,
+            "green onion": 18,
+            "resin": 19,
+            "a kind of metre": 20,
+            "taste, flavour": 21,
+            "Name of the number six": 22,
+            "any object of taste, condiment, sauce, spice, seasoning": 23,
+            "the tongue": 24,
+            "taste, inclination, fondness for, love, affection, desire": 25,
+            "charm, pleasure, delight": 26,
+            "the taste, character of a work, the feeling, sentiment prevailing in it": 27,
+            "the prevailing sentiment in human character": 28,
+            "disposition of the heart, mind, religious sentiment": 29,
+            "the son of a Niṣāda, a Śanakī": 30,
+            "Name of the sacred syllable, Om": 31
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "rUpa",
+        "Derivation": "rUpa/",
+        "Category": "praatipadika",
+        "Sense": {
+            "any outward appearance, phenomenon, colour, form, shape, figure": 0,
+            "dreamy, phantom shapes": 1,
+            "handsome form, loveliness, grace, beauty, splendour": 2,
+            "nature, character, peculiarity, feature, mark, sign, symptom": 3,
+            "likeness, image, reflection": 4,
+            "circumstances": 5,
+            "sort, kind": 6,
+            "mode, manner, way": 7,
+            "trace of": 8,
+            "a single specimen, exemplar": 9,
+            "a particular coin": 10,
+            "a show, play, drama": 11,
+            "the arithmetical unit": 12,
+            "integer number": 13,
+            "known, absolute number, a known quantity as having specific form": 14,
+            "any form of a noun, verb": 15,
+            "the quality of colour": 16,
+            "material form id est, that is the organized body": 17,
+            "a reflection, remark made under particular circumstances when the action is at its height": 18,
+            "cattle": 19,
+            "a beast": 20,
+            "a sound, word": 21,
+            "rereading a book": 22,
+            "a word of unknown meaning": 23,
+            "Name of a people": 24,
+            "Name of a place": 25
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "vac",
+        "Derivation": "vac",
+        "Category": "dhaatu",
+        "Sense": {
+            "to speak, say, tell, utter, announce, declare, mention, proclaim, recite, describe, to reproach, revile, to be spoken, said, told, uttered, what the saying is, to resound, to be called, accounted, be regarded as, pass for, to cause to say, speak, recite, pronounce, to cause anything written, to read out loud, to say, tell, declare, to promise, to desire to say, speak, recite, proclaim, declare, to be meant, to call, cry aloud": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "sarva",
+        "Derivation": "sa/rva",
+        "Category": "praatipadika",
+        "Sense": {
+            "whole, entire, all, every": 0,
+            "of all sorts, manifold, various, different": 1,
+            "altogether, wholly, completely, in all parts, everywhere": 2,
+            "Name of Śiva": 3,
+            "Name of Kṛṣṇa": 4,
+            "Name of a Muni": 5,
+            "Name of a people": 6,
+            "water": 7
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "saha",
+        "Derivation": "saha/",
+        "Category": "praatipadika",
+        "Sense": {
+            "powerful, mighty": 0,
+            "overcoming, vanquishing": 1,
+            "bearing, enduring, withstanding, defying, equal to, a match for": 2,
+            "causing, effecting, stimulating, exerting": 3,
+            "able to, capable of": 4,
+            "the month Mārgaśīrṣa": 5,
+            "a particular Agni": 6,
+            "a species of plant": 7,
+            "Name of a son of Manu": 8,
+            "Name of a son of Prāṇa, Ūrjasvatī": 9,
+            "Name of a son of Dhṛtarāṣṭra": 10,
+            "Name of a son of Kṛṣṇa, Mādrī": 11,
+            "a companion": 12,
+            "kind of salt": 13
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "saha",
+        "Derivation": "saha/",
+        "Category": "avyaya",
+        "Sense": {
+            "together with, along with, with, to take with one with, to give to take away with one, taking with one, in the company of": 0,
+            "in common, in company, jointly, conjointly, in concert": 1,
+            "at the same time, simultaneously with": 2
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "su",
+        "Derivation": "su",
+        "Category": "dhaatu",
+        "Sense": {
+            "to go, move": 0,
+            "to urge, impel, incite, to possess supremacy": 1,
+            "to press out, extract, to distil": 2,
+            "to beget, bring forth": 3
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "su",
+        "Derivation": "su/",
+        "Category": "upasarga",
+        "Sense": {
+            "to become, to lengthen a preceding vowel, good, excellent, right, virtuous, beautiful, easy, well, rightly, much, greatly, very, any, easily, willingly, quickly": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "han",
+        "Derivation": "han",
+        "Category": "naama-dhaatu",
+        "Sense": {
+            "to strike, beat, pound, hammer, strike upon, to smite, slay, hit, kill, mar, destroy, to put to death, cause to be executed, to strike off, to ward off, avert, to hurt, wound, to hurl upon, to touch, come into contact, to obstruct, hinder, to repress, give up, abandon, to be struck, killed, to cause to be slain, killed, kill, slay, put to death, punish, to notify a person's death, to mar, destroy, to wish to kill, destroy, to strike or tread upon, to slay, kill, to dispel, destroy, to hurt, injure, wound": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "han",
+        "Derivation": "han",
+        "Category": "dhaatu",
+        "Sense": {
+            "killing, a killer, slayer": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "hari",
+        "Derivation": "hari",
+        "Category": "praatipadika",
+        "Sense": {
+            "bearing, carrying": 0,
+            "an exclamation": 1
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "hari",
+        "Derivation": "ha/ri",
+        "Category": "praatipadika",
+        "Sense": {
+            "fawn-coloured, reddish brown, brown, tawny, pale yellow, yellow, fallow, bay, green, greenish": 0,
+            "yellow, reddish brown, green": 1,
+            "a horse, steed": 2,
+            "a lion": 3,
+            "the sign of the zodiac Leo": 4,
+            "the sun": 5,
+            "Name of Yama": 6,
+            "a monkey": 7,
+            "a ray of light, the moon, Phaseolus Mungo, a jackal, a parrot, a peacock, the Koil or Indian cuckoo, a goose, a frog, a snake, fire": 8,
+            "the wind, Name of Vāyu": 9,
+            "Name of Indra": 10,
+            "Name of Viṣṇu-Kṛṣṇa": 11,
+            "Name of Brahmā": 12,
+            "Name of Śiva": 13,
+            "Name of Śukra": 14,
+            "Name of Suparṇa": 15,
+            "Name of a Dānava": 16,
+            "Name of a son of Garuḍa": 17,
+            "Name of a Rākṣasa": 18,
+            "Name of a mountain": 19,
+            "Name of a son of Akampana": 20,
+            "Name of a son of Tārakākṣa": 21,
+            "Name of a son of Parājit": 22,
+            "Name of a son of Parāvṛt": 23,
+            "Name of a worshipper of Viṣṇu": 24,
+            "Name of various authors, scholars": 25,
+            "Name of a metre": 26,
+            "Name of a world": 27,
+            "Name of a particular high number": 28,
+            "a particular class of gods under Manu Tāmasa": 29,
+            "men, people": 30
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "hi",
+        "Derivation": "hi",
+        "Category": "dhaatu",
+        "Sense": {
+            "to send forth, set in motion, impel, urge on, hasten on, to stimulate, incite to, to assist, help to, to discharge, hurl, cast, shoot, to convey, bring, procure, to forsake, abandon, get rid of,to gladden, delight": 0
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "hi",
+        "Derivation": "hi/",
+        "Category": "dhaatu",
+        "Sense": {
+            "for, because, on account of": 0,
+            "indeed, assuredly, surely, of course, certainly, most assuredly, indeed-but, often a mere expletive, especially to avoid a hiatus, sometimes repeated in the same sentence, an interjection of envy and contempt and hurry": 1
+        }
+    },
+    {
+        "Head": "H1",
+        "Lemma": "hi",
+        "Derivation": "hi/",
+        "Category": "avyaya",
+        "Sense": {
+            "just, pray, do": 0
+        }
+    }
+]
