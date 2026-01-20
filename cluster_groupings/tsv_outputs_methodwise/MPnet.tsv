@@ -1,0 +1,1564 @@
+lemma	derivation	category	cluster_id	k_hop	louvain	leiden	hac
+BAva	BAva/	praatipadika	0	Name of the 27th Kalpa; Name of the author of the Bhāvaprakāśa	Name of the 27th Kalpa; Name of the author of the Bhāvaprakāśa	advice; appearance; behaviour; character; conduct; continuance; disposition; instruction; intention with whatever disposition of mind; manner of acting; manner of being; temperament; to be ill disposed against	emotion; sentiment
+BAva	BAva/	praatipadika	1	a discreet	a discreet; affection; affections; animals; attachment; emotion; love; nature; opinion; passion; plants; reality; sentiment; substance; to feel an affection for; truth; wanton sport	animals; dalliance; living creature all earthly objects; nature; plants; substance; superhuman power; that which is; the Supreme Being; the world; thing; universe	becoming; being
+BAva	BAva/	praatipadika	2	advice	becoming; being; dalliance; existing; exists; feeling; living creature all earthly objects; occurring; superhuman power; that which is; the Supreme Being; the world; thing; transition into; turning; universe	a discreet; affection; affections; attachment; emotion; heart; love; passion; to feel an affection for; wanton sport	manner of acting; manner of being
+BAva	BAva/	praatipadika	3	an astrological house; lunar mansion	condition; true condition	an organ of sense; any state of mind and body; meditation; mind with a pleased mind; place of birth; soul; state; the seat of the feelings; the state; the womb	state; the state
+BAva	BAva/	praatipadika	4	attachment; character; dalliance; manner of acting; opinion; temperament; thing; to be ill disposed against; wanton sport	any state of mind and body; conjecture; contemplation; continuance; intention with whatever disposition of mind; meaning; meditation; mind with a pleased mind; state; supposition; the fundamental notion of the verb; the sense conveyed by the abstract noun; the state; way of thinking	becoming; being; birth; existing; exists; feeling; occurring; transition into; turning	affection; affections; to feel an affection for
+BAva	BAva/	praatipadika	5	condition; true condition	learned man	conjecture; contemplation; opinion; reality; sentiment; supposition; truth; way of thinking	the world
+BAva	BAva/	praatipadika	6	condition of a planet; of the 8th year in Jupiter's cycle of 60 years	an astrological house; lunar mansion	meaning; the fundamental notion of the verb; the sense conveyed by the abstract noun	to be ill disposed against
+BAva	BAva/	praatipadika	7	conjecture; continuance; sentiment	advice; appearance; behaviour; character; conduct; disposition; instruction; manner of acting; manner of being; temperament; to be ill disposed against	Name of the 27th Kalpa; Name of the author of the Bhāvaprakāśa	temperament
+BAva	BAva/	praatipadika	8	exists; supposition	condition of a planet; of the 8th year in Jupiter's cycle of 60 years	an astrological house; lunar mansion	transition into
+BAva	BAva/	praatipadika	9	learned man	purport	condition of a planet; of the 8th year in Jupiter's cycle of 60 years	way of thinking
+BAva	BAva/	praatipadika	10	living creature all earthly objects; plants; to feel an affection for; truth	rank	condition; true condition	wanton sport
+BAva	BAva/	praatipadika	11	intention with whatever disposition of mind; meaning; the fundamental notion of the verb; the sense conveyed by the abstract noun	such is the sense	learned man	the womb
+BAva	BAva/	praatipadika	12	an organ of sense; animals; disposition; heart; place of birth; soul; state; the state; the womb; the world; universe	an organ of sense; birth; heart; place of birth; soul; the seat of the feelings; the womb	purport	such is the sense
+BAva	BAva/	praatipadika	13	purport	to make a firm resolution	rank	the fundamental notion of the verb
+BAva	BAva/	praatipadika	14	rank		such is the sense	thing
+BAva	BAva/	praatipadika	15	such is the sense		to make a firm resolution	soul
+BAva	BAva/	praatipadika	16	to make a firm resolution			reality
+BAva	BAva/	praatipadika	17	affection; affections; any state of mind and body; appearance; becoming; behaviour; being; birth; conduct; contemplation; emotion; existing; feeling; instruction; love; manner of being; meditation; mind with a pleased mind; nature; occurring; passion; reality; substance; superhuman power; that which is; the Supreme Being; the seat of the feelings; transition into; turning; way of thinking			substance
+BAva	BAva/	praatipadika	18				to make a firm resolution
+BAva	BAva/	praatipadika	19				supposition
+BAva	BAva/	praatipadika	20				universe
+BAva	BAva/	praatipadika	21				true condition
+BAva	BAva/	praatipadika	22				turning
+BAva	BAva/	praatipadika	23				the Supreme Being
+BAva	BAva/	praatipadika	24				superhuman power
+BAva	BAva/	praatipadika	25				living creature all earthly objects
+BAva	BAva/	praatipadika	26				plants
+BAva	BAva/	praatipadika	27				occurring
+BAva	BAva/	praatipadika	28				character
+BAva	BAva/	praatipadika	29				the sense conveyed by the abstract noun
+BAva	BAva/	praatipadika	30				nature
+BAva	BAva/	praatipadika	31				rank
+BAva	BAva/	praatipadika	32				passion
+BAva	BAva/	praatipadika	33				mind with a pleased mind
+BAva	BAva/	praatipadika	34				love
+BAva	BAva/	praatipadika	35				learned man
+BAva	BAva/	praatipadika	36				meaning
+BAva	BAva/	praatipadika	37				any state of mind and body
+BAva	BAva/	praatipadika	38				advice
+BAva	BAva/	praatipadika	39				exists
+BAva	BAva/	praatipadika	40				a discreet
+BAva	BAva/	praatipadika	41				of the 8th year in Jupiter's cycle of 60 years
+BAva	BAva/	praatipadika	42				that which is
+BAva	BAva/	praatipadika	43				the seat of the feelings
+BAva	BAva/	praatipadika	44				opinion
+BAva	BAva/	praatipadika	45				disposition
+BAva	BAva/	praatipadika	46				truth
+BAva	BAva/	praatipadika	47				conjecture
+BAva	BAva/	praatipadika	48				appearance
+BAva	BAva/	praatipadika	49				place of birth
+BAva	BAva/	praatipadika	50				purport
+BAva	BAva/	praatipadika	51				heart
+BAva	BAva/	praatipadika	52				an organ of sense
+BAva	BAva/	praatipadika	53				dalliance
+BAva	BAva/	praatipadika	54				conduct
+BAva	BAva/	praatipadika	55				continuance
+BAva	BAva/	praatipadika	56				instruction
+BAva	BAva/	praatipadika	57				attachment
+BAva	BAva/	praatipadika	58				an astrological house
+BAva	BAva/	praatipadika	59				condition
+BAva	BAva/	praatipadika	60				birth
+BAva	BAva/	praatipadika	61				meditation
+BAva	BAva/	praatipadika	62				intention with whatever disposition of mind
+BAva	BAva/	praatipadika	63				Name of the 27th Kalpa
+BAva	BAva/	praatipadika	64				animals
+BAva	BAva/	praatipadika	65				lunar mansion
+BAva	BAva/	praatipadika	66				contemplation
+BAva	BAva/	praatipadika	67				Name of the author of the Bhāvaprakāśa
+BAva	BAva/	praatipadika	68				feeling
+BAva	BAva/	praatipadika	69				condition of a planet
+BAva	BAva/	praatipadika	70				behaviour
+BAva	BAva/	praatipadika	71				existing
+BU	BU	dhaatu	0	Name of a Yogin	Name of a Yogin	Name of a Yogin	a particular land-measure
+BU	BU/	dhaatu	0	Name of Viṣṇu; Name of an Ekāha; one of the three Vyāhṛtis	Name of Viṣṇu; Name of an Ekāha; one of the three Vyāhṛtis	arising; becoming; being; existing; springing; the act of becoming; the place of being	land; landed property
+BU	BU	dhaatu	1	a particular land-measure	a particular land-measure	a particular land-measure	Name of a Yogin
+BU	BU/	dhaatu	1	a place; a sacrificial fire; arising; becoming; being; earth; existing; floor; ground; land; landed property; matter; object; pavement; piece of ground; soil; space; spot; springing; the act of becoming; the earth; the place of being; universe; world	a place; a sacrificial fire; earth; matter; object; space; spot; the earth; universe; world	floor; ground; land; landed property; pavement; piece of ground; soil	a place; the place of being
+BU	BU/	dhaatu	2	a term for the letter	a term for the letter	earth; matter; object; space; the earth; universe; world	becoming; the act of becoming
+BU	BU/	dhaatu	3	symbolical name for the number one	arising; becoming; being; existing; springing; the act of becoming; the place of being	a place; a sacrificial fire; spot	earth; the earth
+BU	BU/	dhaatu	4	the base of any geometrical figure	floor; ground; land; landed property; pavement; piece of ground; soil	Name of Viṣṇu; Name of an Ekāha; one of the three Vyāhṛtis	world
+BU	BU/	dhaatu	5		symbolical name for the number one	a term for the letter	the base of any geometrical figure
+BU	BU/	dhaatu	6		the base of any geometrical figure	symbolical name for the number one	springing
+BU	BU/	dhaatu	7			the base of any geometrical figure	symbolical name for the number one
+BU	BU/	dhaatu	8				piece of ground
+BU	BU/	dhaatu	9				matter
+BU	BU/	dhaatu	10				universe
+BU	BU/	dhaatu	11				being
+BU	BU/	dhaatu	12				ground
+BU	BU/	dhaatu	13				one of the three Vyāhṛtis
+BU	BU/	dhaatu	14				spot
+BU	BU/	dhaatu	15				pavement
+BU	BU/	dhaatu	16				space
+BU	BU/	dhaatu	17				Name of Viṣṇu
+BU	BU/	dhaatu	18				a term for the letter
+BU	BU/	dhaatu	19				a sacrificial fire
+BU	BU/	dhaatu	20				existing
+BU	BU/	dhaatu	21				object
+BU	BU/	dhaatu	22				soil
+BU	BU/	dhaatu	23				Name of an Ekāha
+BU	BU/	dhaatu	24				arising
+BU	BU/	dhaatu	25				floor
+Darma	Da/rma	praatipadika	0	Justice personified; a particular ceremony; firm; ordinance	Law; a particular ceremony; customary observance; firm; law; ordinance; prescribed conduct; property; statute; steadfast decree; that which is established; the law	Law; a particular ceremony; customary observance; firm; law; ordinance; prescribed conduct; property; statute; steadfast decree; that which is established; the law	doctrine of Buddhism; the ethical precepts of Buddhism; the law of Northern Buddhism
+Darma	Darma	naama-dhaatu	0	law	law	law	to become
+Darma	Da/rma	praatipadika	1	Name of a king of Kaśmīra; Name of the 15th Arhat of the present Ava-sarpiṇī	Name of a king of Kaśmīra; Name of a lexicographer; Name of a son of Anu; Name of a son of Dīrgha-tapas; Name of a son of Gāndhāra; Name of a son of Haihaya; Name of a son of Pṛthu-śravas; Name of a son of Su-vrata; Name of another man; Name of the 15th Arhat of the present Ava-sarpiṇī; father of Ghṛta	Name of a king of Kaśmīra; Name of a lexicographer; Name of a son of Anu; Name of a son of Dīrgha-tapas; Name of a son of Gāndhāra; Name of a son of Haihaya; Name of a son of Pṛthu-śravas; Name of a son of Su-vrata; Name of another man; Name of the 15th Arhat of the present Ava-sarpiṇī; father of Ghṛta	Justice personified; justice
+Darma	Darma	naama-dhaatu	1	to become	to become	to become	law
+Darma	Da/rma	praatipadika	2	Name of a lexicographer; Name of a son of Anu; Name of a son of Dīrgha-tapas; Name of a son of Gāndhāra; Name of a son of Haihaya; Name of a son of Pṛthu-śravas; Name of a son of Su-vrata; Name of another man; father of Ghṛta	a Soma-drinker; a bow; an Upaniṣad	Justice personified; character; devotion; duty; essential quality; justice; morality; nature; sacrifice; virtue	the ninth mansion
+Darma	Da/rma	praatipadika	3	a Soma-drinker; a bow; an Upaniṣad	Justice personified; associating with the virtuous; character; devotion; doctrine of Buddhism; duty; essential quality; justice; morality; nature; religion; religious abstraction; religious merit; sacrifice; the ethical precepts of Buddhism; the law of Northern Buddhism; virtue	associating with the virtuous; doctrine of Buddhism; religion; religious abstraction; religious merit; the ethical precepts of Buddhism; the law of Northern Buddhism	Law; law; the law
+Darma	Da/rma	praatipadika	4	Law; associating with the virtuous; character; customary observance; devotion; doctrine of Buddhism; duty; essential quality; justice; law; morality; nature; prescribed conduct; property; religion; religious abstraction; religious merit; sacrifice; statute; steadfast decree; that which is established; the ethical precepts of Buddhism; the law; the law of Northern Buddhism; virtue	f° of Dhṛta; f° of Netra	a Soma-drinker; a bow; an Upaniṣad	statute
+Darma	Da/rma	praatipadika	5	f° of Dhṛta; f° of Netra	good works	f° of Dhṛta; f° of Netra	that which is established
+Darma	Da/rma	praatipadika	6	good works	mark	peculiar condition; peculiarity	religious abstraction
+Darma	Da/rma	praatipadika	7	mark	of Uśanas	good works	virtue
+Darma	Da/rma	praatipadika	8	of Uśanas	peculiar condition; peculiarity	mark	usage
+Darma	Da/rma	praatipadika	9	peculiar condition; peculiarity	practice	of Uśanas	of Uśanas
+Darma	Da/rma	praatipadika	10	practice	right	practice	religion
+Darma	Da/rma	praatipadika	11	right	the ninth mansion	right	right
+Darma	Da/rma	praatipadika	12	the ninth mansion	usage	the ninth mansion	sacrifice
+Darma	Da/rma	praatipadika	13	usage		usage	mark
+Darma	Da/rma	praatipadika	14				good works
+Darma	Da/rma	praatipadika	15				steadfast decree
+Darma	Da/rma	praatipadika	16				prescribed conduct
+Darma	Da/rma	praatipadika	17				peculiarity
+Darma	Da/rma	praatipadika	18				religious merit
+Darma	Da/rma	praatipadika	19				f° of Dhṛta
+Darma	Da/rma	praatipadika	20				associating with the virtuous
+Darma	Da/rma	praatipadika	21				f° of Netra
+Darma	Da/rma	praatipadika	22				peculiar condition
+Darma	Da/rma	praatipadika	23				property
+Darma	Da/rma	praatipadika	24				essential quality
+Darma	Da/rma	praatipadika	25				practice
+Darma	Da/rma	praatipadika	26				an Upaniṣad
+Darma	Da/rma	praatipadika	27				Name of another man
+Darma	Da/rma	praatipadika	28				a Soma-drinker
+Darma	Da/rma	praatipadika	29				duty
+Darma	Da/rma	praatipadika	30				customary observance
+Darma	Da/rma	praatipadika	31				father of Ghṛta
+Darma	Da/rma	praatipadika	32				Name of a son of Su-vrata
+Darma	Da/rma	praatipadika	33				Name of the 15th Arhat of the present Ava-sarpiṇī
+Darma	Da/rma	praatipadika	34				Name of a son of Haihaya
+Darma	Da/rma	praatipadika	35				nature
+Darma	Da/rma	praatipadika	36				ordinance
+Darma	Da/rma	praatipadika	37				character
+Darma	Da/rma	praatipadika	38				devotion
+Darma	Da/rma	praatipadika	39				Name of a lexicographer
+Darma	Da/rma	praatipadika	40				a particular ceremony
+Darma	Da/rma	praatipadika	41				a bow
+Darma	Da/rma	praatipadika	42				Name of a son of Dīrgha-tapas
+Darma	Da/rma	praatipadika	43				Name of a king of Kaśmīra
+Darma	Da/rma	praatipadika	44				Name of a son of Anu
+Darma	Da/rma	praatipadika	45				firm
+Darma	Da/rma	praatipadika	46				Name of a son of Pṛthu-śravas
+Darma	Da/rma	praatipadika	47				morality
+Darma	Da/rma	praatipadika	48				Name of a son of Gāndhāra
+agra	a/gra	praatipadika	0	a measure of food given as alms; a weight; equal to a pala	chief; summit; tip; top	aim; and hence; foremost point; goal; point; sharpness; surface	foremost; foremost point
+agra	agra	praatipadika	0	remainder; rest	remainder; rest	remainder; rest	rest
+agra	a/gra	praatipadika	1	aim	a measure of food given as alms; a weight; equal to a pala	best; chief; foremost; summit; tip; top	top
+agra	agra	praatipadika	1				remainder
+agra	a/gra	praatipadika	2	and hence; goal; point; the nearest end	figuratively	best part; part; the climax; the nearest end; uppermost part	uppermost part
+agra	a/gra	praatipadika	3	anterior; the beginning	anterior; first; foremost; foremost point; front; projecting; prominent	anterior; first; front; the beginning	tip
+agra	a/gra	praatipadika	4	best; best part; chief; first; front; part; summit; the climax; tip; top; uppermost part	best; best part; part; the beginning; the climax; the nearest end; uppermost part	a measure of food given as alms; a weight; equal to a pala	the nearest end
+agra	a/gra	praatipadika	5	figuratively	aim; and hence; goal; point	projecting; prominent	supernumerary
+agra	a/gra	praatipadika	6	multitude; supernumerary	sharpness; surface	multitude; supernumerary	the climax
+agra	a/gra	praatipadika	7	foremost; projecting; prominent	multitude; supernumerary	figuratively	the sun's amplitude
+agra	a/gra	praatipadika	8	foremost point; sharpness; surface	the sun's amplitude	the sun's amplitude	projecting
+agra	a/gra	praatipadika	9	the sun's amplitude			sharpness
+agra	a/gra	praatipadika	10				prominent
+agra	a/gra	praatipadika	11				goal
+agra	a/gra	praatipadika	12				summit
+agra	a/gra	praatipadika	13				the beginning
+agra	a/gra	praatipadika	14				surface
+agra	a/gra	praatipadika	15				a measure of food given as alms
+agra	a/gra	praatipadika	16				best part
+agra	a/gra	praatipadika	17				point
+agra	a/gra	praatipadika	18				chief
+agra	a/gra	praatipadika	19				and hence
+agra	a/gra	praatipadika	20				multitude
+agra	a/gra	praatipadika	21				front
+agra	a/gra	praatipadika	22				equal to a pala
+agra	a/gra	praatipadika	23				a weight
+agra	a/gra	praatipadika	24				aim
+agra	a/gra	praatipadika	25				figuratively
+agra	a/gra	praatipadika	26				best
+agra	a/gra	praatipadika	27				anterior
+agra	a/gra	praatipadika	28				first
+agra	a/gra	praatipadika	29				part
+arTa	a/rTa	praatipadika	0	Buddhi; personified as the son of Dharma	Buddhi; personified as the son of Dharma	action; affair; cause; concern; lawsuit; motive; prevention; prohibition; reason; take up one's work	money; wealth
+arTa	a/rTa	praatipadika	1	Name of the second mansion; the mansion of wealth	Name of the second mansion; money; price; property; the mansion of wealth; wealth	Name of the second mansion; object; object of the senses; property; substance; the mansion of wealth; the number five; thing	Name of the second mansion; the mansion of wealth
+arTa	a/rTa	praatipadika	2	action; affair; take up one's work	action; affair; cause; concern; lawsuit; motive; prevention; prohibition; reason; take up one's work	having to do with; kind; manner; meaning; notion; sense	use
+arTa	a/rTa	praatipadika	3	advantage; aim; manner; object of the senses; prevention; use; utility	advantage; aim; purpose; use; utility	money; needing anything; opulence; price; wanting; wealth	cause; reason
+arTa	a/rTa	praatipadika	4	concern; having to do with; kind; meaning; needing anything	having to do with; kind; manner; meaning; needing anything; wanting	advantage; aim; purpose; use; utility	utility
+arTa	a/rTa	praatipadika	5	cause; lawsuit; money; motive; opulence; price; prohibition; reason; wanting; wealth	notion; object; object of the senses; opulence; sense; substance; the number five; thing	Buddhi; personified as the son of Dharma	to go to one's business
+arTa	a/rTa	praatipadika	6	notion; object; property; purpose; sense; substance; the number five; thing	to go to one's business	to go to one's business	take up one's work
+arTa	a/rTa	praatipadika	7	to go to one's business			wanting
+arTa	a/rTa	praatipadika	8				price
+arTa	a/rTa	praatipadika	9				sense
+arTa	a/rTa	praatipadika	10				thing
+arTa	a/rTa	praatipadika	11				the number five
+arTa	a/rTa	praatipadika	12				property
+arTa	a/rTa	praatipadika	13				opulence
+arTa	a/rTa	praatipadika	14				needing anything
+arTa	a/rTa	praatipadika	15				substance
+arTa	a/rTa	praatipadika	16				object
+arTa	a/rTa	praatipadika	17				affair
+arTa	a/rTa	praatipadika	18				prevention
+arTa	a/rTa	praatipadika	19				purpose
+arTa	a/rTa	praatipadika	20				action
+arTa	a/rTa	praatipadika	21				personified as the son of Dharma
+arTa	a/rTa	praatipadika	22				manner
+arTa	a/rTa	praatipadika	23				meaning
+arTa	a/rTa	praatipadika	24				kind
+arTa	a/rTa	praatipadika	25				having to do with
+arTa	a/rTa	praatipadika	26				prohibition
+arTa	a/rTa	praatipadika	27				aim
+arTa	a/rTa	praatipadika	28				notion
+arTa	a/rTa	praatipadika	29				lawsuit
+arTa	a/rTa	praatipadika	30				advantage
+arTa	a/rTa	praatipadika	31				object of the senses
+arTa	a/rTa	praatipadika	32				Buddhi
+arTa	a/rTa	praatipadika	33				concern
+arTa	a/rTa	praatipadika	34				motive
+banD	banD	dhaatu	0	arrange; bend; effect; knit	bridge over	bear; betray to be bound by the fetters of existence; capture; catch; chastise; cherish; evil; hold captive; imprison; restrain; sacrifice; sin again; suffer; to arrest; to catch; to punish; to sin	produce anything in this way; produce in any way
+banD	banD	dhaatu	1	assume	compose; conceive; construct; constructed; do; exhibit; make; produce anything in this way; produce in any way	assume; bend; chain; clench; close; contract; fold; hold back; knit; show; shut; stop; strike; suppress; tie	to bind; to bind round; to bind together
+banD	banD	dhaatu	2	bear; fix	dammed up	arrange; effect; fasten; fix; offer; put on; put together; rivet on; set up; take; take up; to join; unite	fix; to fix
+banD	banD	dhaatu	3	betray to be bound by the fetters of existence; cherish; evil; sin again; strike	direct	cause; to attach to world; to bind; to bind a sacrificial victim; to bind round; to bind together; to cause to be built; to cause to be embanked; to cause to bind; to entertain; to fix; to form	unite
+banD	banD	dhaatu	4	bridge over	fetter	compose; conceive; construct; constructed; do; exhibit; make; produce anything in this way; produce in any way	to sin
+banD	banD	dhaatu	5	cause; compose; conceive; exhibit; to catch; to cause to be built; to cause to be embanked; to cause to bind; to entertain; to form	arrange; bend; chain; clench; effect; fasten; fix; fold; offer; put on; put together; rivet on; set up; take; take up; to join; unite	bridge over	to punish
+banD	banD	dhaatu	6	dammed up	bear; betray to be bound by the fetters of existence; capture; catch; chastise; cherish; evil; hold captive; imprison; restrain; sacrifice; sin again; suffer; to arrest; to catch; to punish; to sin	dammed up	construct; constructed
+banD	banD	dhaatu	7	direct	span	direct	to join
+banD	banD	dhaatu	8	construct; constructed; do; make; produce anything in this way; produce in any way; suffer; to sin; unite	assume; close; contract; hold back; knit; show; shut; stop; strike; suppress; tie	fetter	to cause to be embanked
+banD	banD	dhaatu	9	fetter	that is experience	span	to bind a sacrificial victim
+banD	banD	dhaatu	10	catch; chain; chastise; clench; close; contract; fasten; fold; hold back; hold captive; imprison; put together; restrain; rivet on; sacrifice; set up; show; stop; suppress; tie; to arrest; to attach to world; to bind; to bind a sacrificial victim; to bind round; to bind together; to fix; to join; to punish	to be affected by id est	that is experience	to attach to world
+banD	banD	dhaatu	11	capture; offer; put on; shut; take; take up	cause; to attach to world; to bind; to bind a sacrificial victim; to bind round; to bind together; to cause to be built; to cause to be embanked; to cause to bind; to entertain; to fix; to form	to be affected by id est	take
+banD	banD	dhaatu	12	span			to catch
+banD	banD	dhaatu	13	that is experience			to form
+banD	banD	dhaatu	14	to be affected by id est			to arrest
+banD	banD	dhaatu	15				to entertain
+banD	banD	dhaatu	16				restrain
+banD	banD	dhaatu	17				rivet on
+banD	banD	dhaatu	18				take up
+banD	banD	dhaatu	19				tie
+banD	banD	dhaatu	20				span
+banD	banD	dhaatu	21				stop
+banD	banD	dhaatu	22				knit
+banD	banD	dhaatu	23				do
+banD	banD	dhaatu	24				set up
+banD	banD	dhaatu	25				effect
+banD	banD	dhaatu	26				shut
+banD	banD	dhaatu	27				to cause to be built
+banD	banD	dhaatu	28				strike
+banD	banD	dhaatu	29				sacrifice
+banD	banD	dhaatu	30				show
+banD	banD	dhaatu	31				suffer
+banD	banD	dhaatu	32				to cause to bind
+banD	banD	dhaatu	33				imprison
+banD	banD	dhaatu	34				make
+banD	banD	dhaatu	35				put together
+banD	banD	dhaatu	36				clench
+banD	banD	dhaatu	37				hold back
+banD	banD	dhaatu	38				suppress
+banD	banD	dhaatu	39				that is experience
+banD	banD	dhaatu	40				fold
+banD	banD	dhaatu	41				chain
+banD	banD	dhaatu	42				chastise
+banD	banD	dhaatu	43				close
+banD	banD	dhaatu	44				fetter
+banD	banD	dhaatu	45				betray to be bound by the fetters of existence
+banD	banD	dhaatu	46				bend
+banD	banD	dhaatu	47				bridge over
+banD	banD	dhaatu	48				contract
+banD	banD	dhaatu	49				dammed up
+banD	banD	dhaatu	50				evil
+banD	banD	dhaatu	51				assume
+banD	banD	dhaatu	52				cause
+banD	banD	dhaatu	53				cherish
+banD	banD	dhaatu	54				put on
+banD	banD	dhaatu	55				bear
+banD	banD	dhaatu	56				to be affected by id est
+banD	banD	dhaatu	57				capture
+banD	banD	dhaatu	58				hold captive
+banD	banD	dhaatu	59				direct
+banD	banD	dhaatu	60				arrange
+banD	banD	dhaatu	61				exhibit
+banD	banD	dhaatu	62				fasten
+banD	banD	dhaatu	63				offer
+banD	banD	dhaatu	64				sin again
+banD	banD	dhaatu	65				conceive
+banD	banD	dhaatu	66				catch
+banD	banD	dhaatu	67				compose
+brahman	bra/hman	praatipadika	0	Mantra used as a spell; a text; the Absolute; the sacred syllable Om; utterance	final emancipation	Mantra used as a spell; a sacred text; a text; outpouring of the heart in worshipping the gods; the sacred syllable Om; the sacred word; utterance	one self-existent impersonal Spirit; the Self-existent
+brahman	brahma/n	praatipadika	0	Brahmā; Name of the 9th Muhūrta; Name of the servant of the 10th Arhat of the present Avasarpiṇī; a Brāhman who is a knower of Vedic texts; a devout; a lifetime of Brahmā; a particular Kalpa; a particular astronomy Yoga; an inhabitant of Brahmā's heaven; as the first of the triad of personal gods; one of the 4 principal priests; one who prays; religious man	Brahmā; a Brāhman who is a knower of Vedic texts; a lifetime of Brahmā; an inhabitant of Brahmā's heaven	Name of Bṛhas-pati; Name of a star; Name of the 9th Muhūrta; Name of the servant of the 10th Arhat of the present Avasarpiṇī; Name of Śiva; the sun	Brahmā; a lifetime of Brahmā; an inhabitant of Brahmā's heaven
+brahman	bra/hman	praatipadika	1	final emancipation	food; pious effusion; prayer; religious; spiritual knowledge; wealth	communicators of sacred knowledge; the Brahmă; the Brāhmanical caste as a body; the Brāhmaṇa portion of the Veda; the Veda; the class of men who are the repositories	wealth
+brahman	brahma/n	praatipadika	1	Name of a magician; spells	Name of a magician; spells	a devout; as the first of the triad of personal gods; one of the 4 principal priests; one who prays; religious man; the one impersonal universal Spirit manifested as a personal Creator	a devout; one who prays
+brahman	bra/hman	praatipadika	2	food; prayer; religious; wealth	holy life	food; pious effusion; prayer; religious; spiritual knowledge; wealth	a sacred text; the sacred word
+brahman	brahma/n	praatipadika	2	Name of Bṛhas-pati; Name of a star; Name of Śiva; one versed in sacred knowledge; the Veda; the intellect; the one impersonal universal Spirit manifested as a personal Creator; the sun	Name of Bṛhas-pati; Name of a star; Name of the 9th Muhūrta; Name of the servant of the 10th Arhat of the present Avasarpiṇī; Name of Śiva; a particular Kalpa; a particular astronomy Yoga; the Veda; the intellect; the sun	a particular Kalpa; a particular astronomy Yoga; one versed in sacred knowledge; the Veda; the intellect	δ Aurigae
+brahman	bra/hman	praatipadika	3	holy life	one self-existent impersonal Spirit; the Absolute; the Eternal; the Self-existent; the one universal Soul	one self-existent impersonal Spirit; the Absolute; the Eternal; the Self-existent; the one universal Soul	the Brāhmanical caste as a body
+brahman	brahma/n	praatipadika	3	δ Aurigae	a devout; as the first of the triad of personal gods; one of the 4 principal priests; one versed in sacred knowledge; one who prays; religious man; the one impersonal universal Spirit manifested as a personal Creator	Brahmā; a Brāhman who is a knower of Vedic texts; a lifetime of Brahmā; an inhabitant of Brahmā's heaven	spells
+brahman	bra/hman	praatipadika	4	a sacred text; communicators of sacred knowledge; one self-existent impersonal Spirit; outpouring of the heart in worshipping the gods; pious effusion; spiritual knowledge; the Brahmă; the Brāhmanical caste as a body; the Brāhmaṇa portion of the Veda; the Eternal; the Self-existent; the Veda; the class of men who are the repositories; the one universal Soul; the sacred word	communicators of sacred knowledge; the Brahmă; the Brāhmanical caste as a body; the Brāhmaṇa portion of the Veda; the Veda; the class of men who are the repositories	final emancipation	the sacred syllable Om
+brahman	brahma/n	praatipadika	4	Ṛtvijas	δ Aurigae	Name of a magician; spells	Ṛtvijas
+brahman	bra/hman	praatipadika	5		Mantra used as a spell; a sacred text; a text; outpouring of the heart in worshipping the gods; the sacred syllable Om; the sacred word; utterance	holy life	the Eternal
+brahman	brahma/n	praatipadika	5		Ṛtvijas	δ Aurigae	the Veda
+brahman	bra/hman	praatipadika	6				utterance
+brahman	brahma/n	praatipadika	6			Ṛtvijas	the sun
+brahman	bra/hman	praatipadika	7				prayer
+brahman	brahma/n	praatipadika	7				one versed in sacred knowledge
+brahman	bra/hman	praatipadika	8				spiritual knowledge
+brahman	brahma/n	praatipadika	8				a Brāhman who is a knower of Vedic texts
+brahman	bra/hman	praatipadika	9				the one universal Soul
+brahman	brahma/n	praatipadika	9				the intellect
+brahman	bra/hman	praatipadika	10				the Brāhmaṇa portion of the Veda
+brahman	brahma/n	praatipadika	10				religious man
+brahman	bra/hman	praatipadika	11				the Absolute
+brahman	brahma/n	praatipadika	11				a particular astronomy Yoga
+brahman	bra/hman	praatipadika	12				religious
+brahman	brahma/n	praatipadika	12				Name of a magician
+brahman	bra/hman	praatipadika	13				the class of men who are the repositories
+brahman	brahma/n	praatipadika	13				Name of a star
+brahman	bra/hman	praatipadika	14				the Veda
+brahman	brahma/n	praatipadika	14				the one impersonal universal Spirit manifested as a personal Creator
+brahman	bra/hman	praatipadika	15				Mantra used as a spell
+brahman	brahma/n	praatipadika	15				Name of Śiva
+brahman	bra/hman	praatipadika	16				food
+brahman	brahma/n	praatipadika	16				Name of Bṛhas-pati
+brahman	bra/hman	praatipadika	17				holy life
+brahman	brahma/n	praatipadika	17				Name of the servant of the 10th Arhat of the present Avasarpiṇī
+brahman	bra/hman	praatipadika	18				pious effusion
+brahman	brahma/n	praatipadika	18				Name of the 9th Muhūrta
+brahman	bra/hman	praatipadika	19				a text
+brahman	brahma/n	praatipadika	19				one of the 4 principal priests
+brahman	bra/hman	praatipadika	20				the Brahmă
+brahman	brahma/n	praatipadika	20				as the first of the triad of personal gods
+brahman	bra/hman	praatipadika	21				outpouring of the heart in worshipping the gods
+brahman	brahma/n	praatipadika	21				a particular Kalpa
+brahman	bra/hman	praatipadika	22				communicators of sacred knowledge
+brahman	bra/hman	praatipadika	23				final emancipation
+citra	citra	praatipadika	0	fro	fro	fro	leaping to
+citra	citra/	praatipadika	0	Jonesia Aśoka; Plumbago zeylanica	Jonesia Aśoka; Name of a Draviḍa king; Name of a Gandharva; Name of a Jābāla-gṛhapati; Name of a king; Name of a son of Dhṛtarāṣṭra; Plumbago zeylanica	a bright; a forestof variegated appearance  on; anything bright; bright; bright-coloured; coloured which strikes the eyes; having different varieties; speckled; variegated; variety of colour	Name of a Draviḍa king; Name of a king
+citra	citra	praatipadika	1	leaping to	leaping to	leaping to	fro
+citra	citra/	praatipadika	1	Name of a Draviḍa king; Name of a Gandharva; Name of a Jābāla-gṛhapati; Name of a king; Name of a son of Dhṛtarāṣṭra	Ricinus communis	a brilliant ornament; a sectarial mark on the forehead; agitated; conspicuous; distinguished; extraordinary appearance; ornament; other fanciful figures; spotted	a bright; anything bright; bright; bright-coloured
+citra	citra/	praatipadika	2	Ricinus communis	a bright; a forestof variegated appearance  on; anything bright; bright; bright-coloured; coloured which strikes the eyes; having different varieties; speckled; variegated; variety of colour	curious; different; punning in the form of question; riddle; strange; strange!; various; wonder	a forestof variegated appearance  on; variegated
+citra	citra/	praatipadika	3	a bright; a forestof variegated appearance  on; a sectarial mark on the forehead; anything bright; bright; coloured which strikes the eyes; sketch	a form of Yama	Jonesia Aśoka; Name of a Draviḍa king; Name of a Gandharva; Name of a Jābāla-gṛhapati; Name of a king; Name of a son of Dhṛtarāṣṭra; Plumbago zeylanica	a brilliant ornament; ornament
+citra	citra/	praatipadika	4	a form of Yama	arranging verses in the shape of mathematical	a picture; a spot; answer; clear; delineation; sketch	strange; strange!
+citra	citra/	praatipadika	5	arranging verses in the shape of mathematical	containing the word	sky; the ether	various modes of writing
+citra	citra/	praatipadika	6	containing the word	a picture; a spot; answer; clear; sketch	excellent; wonderful	excellent; wonderful
+citra	citra/	praatipadika	7	a picture; curious; having different varieties; ornament; punning in the form of question; riddle; strange; strange!; variety of colour; various; wonder	facetious conversation	Ricinus communis	variety of colour
+citra	citra/	praatipadika	8	a spot; agitated; answer; clear; delineation; different; distinguished; speckled; spotted; variegated	manifold	a form of Yama	wonder
+citra	citra/	praatipadika	9	excellent; wonderful	a brilliant ornament; a sectarial mark on the forehead; agitated; conspicuous; delineation; distinguished; extraordinary appearance; ornament; other fanciful figures; spotted	arranging verses in the shape of mathematical	manifold
+citra	citra/	praatipadika	10	facetious conversation	curious; different; punning in the form of question; riddle; strange; strange!; various; wonder	containing the word	spotted
+citra	citra/	praatipadika	11	manifold	sky; the ether	facetious conversation	sky
+citra	citra/	praatipadika	12	a brilliant ornament; bright-coloured; conspicuous; extraordinary appearance; other fanciful figures	various modes of writing	manifold	the ether
+citra	citra/	praatipadika	13	sky; the ether	excellent; wonderful	various modes of writing	various
+citra	citra/	praatipadika	14	various modes of writing			agitated
+citra	citra/	praatipadika	15				punning in the form of question
+citra	citra/	praatipadika	16				delineation
+citra	citra/	praatipadika	17				other fanciful figures
+citra	citra/	praatipadika	18				speckled
+citra	citra/	praatipadika	19				facetious conversation
+citra	citra/	praatipadika	20				having different varieties
+citra	citra/	praatipadika	21				a form of Yama
+citra	citra/	praatipadika	22				riddle
+citra	citra/	praatipadika	23				a spot
+citra	citra/	praatipadika	24				Name of a Jābāla-gṛhapati
+citra	citra/	praatipadika	25				a sectarial mark on the forehead
+citra	citra/	praatipadika	26				clear
+citra	citra/	praatipadika	27				extraordinary appearance
+citra	citra/	praatipadika	28				sketch
+citra	citra/	praatipadika	29				Plumbago zeylanica
+citra	citra/	praatipadika	30				Jonesia Aśoka
+citra	citra/	praatipadika	31				arranging verses in the shape of mathematical
+citra	citra/	praatipadika	32				distinguished
+citra	citra/	praatipadika	33				a picture
+citra	citra/	praatipadika	34				answer
+citra	citra/	praatipadika	35				Ricinus communis
+citra	citra/	praatipadika	36				different
+citra	citra/	praatipadika	37				containing the word
+citra	citra/	praatipadika	38				Name of a son of Dhṛtarāṣṭra
+citra	citra/	praatipadika	39				conspicuous
+citra	citra/	praatipadika	40				curious
+citra	citra/	praatipadika	41				Name of a Gandharva
+citra	citra/	praatipadika	42				coloured which strikes the eyes
+dfS	df/S	praatipadika	0	appearance; discerning; knowing; look; looking at; seeing; sight; the eye; the observed spot; view; viewing	doctrine; theory	appearance; look; sight; the eye; the observed spot	seeing; viewing
+dfS	dfS	praatipadika	0	appear; be seen; become visible; behold; look at; manifested; regard; to; to be always visible; to cause to see; to produce or pay; to see by divine intuition; to show or prove; visit	appear; be seen; become visible; behold; manifested; regard; to; to be always visible; to be seen; to be shown; to cause to see; to notice; to produce or pay; to see by divine intuition; to show a thing; to show or prove; to wish to see; to wish to show	compose; consider; contrive Aorist; demonstrate; examine; find out; learn; look at; look into; think; try; visit	to see; to see with the mind
+dfS	df/S	praatipadika	1	doctrine; theory	the aspect of a planet	discerning; knowing; seeing	the observed spot
+dfS	dfS	praatipadika	1	care for	care for	long for; to; to be shown; to notice; to see; to wait on; to wish to see	to be shown; to show a thing
+dfS	df/S	praatipadika	2	the aspect of a planet	appearance; look; sight; the eye; the observed spot	looking at; view; viewing	view
+dfS	dfS	praatipadika	2	compose; consider; contrive Aorist; demonstrate; examine; find out; learn; look into; think; try	compose; consider; contrive Aorist; demonstrate; examine; find out; learn; look at; look into; think; try; visit	appear; be seen; become visible; manifested; to be always visible; to be seen	become visible; to be always visible
+dfS	df/S	praatipadika	3		discerning; knowing; looking at; seeing; view; viewing	doctrine; theory	the eye
+dfS	dfS	praatipadika	3	long for; to be seen; to be shown; to notice; to see; to see with the mind; to show a thing; to wait on; to wish to see; to wish to show; understand	person	behold; regard; to see by divine intuition; to see with the mind; understand	be seen; to be seen
+dfS	df/S	praatipadika	4			the aspect of a planet	knowing
+dfS	dfS	praatipadika	4	person	long for; to see; to see with the mind; to wait on; understand	to cause to see; to produce or pay; to show a thing; to show or prove; to wish to show	understand
+dfS	df/S	praatipadika	5				theory
+dfS	dfS	praatipadika	5			care for	to notice
+dfS	df/S	praatipadika	6				look
+dfS	dfS	praatipadika	6			person	to wish to see; to wish to show
+dfS	df/S	praatipadika	7				the aspect of a planet
+dfS	dfS	praatipadika	7				visit
+dfS	df/S	praatipadika	8				appearance
+dfS	dfS	praatipadika	8				try
+dfS	df/S	praatipadika	9				doctrine
+dfS	dfS	praatipadika	9				to see by divine intuition
+dfS	df/S	praatipadika	10				discerning
+dfS	dfS	praatipadika	10				to show or prove
+dfS	df/S	praatipadika	11				sight
+dfS	dfS	praatipadika	11				long for
+dfS	df/S	praatipadika	12				looking at
+dfS	dfS	praatipadika	12				find out
+dfS	dfS	praatipadika	13				to
+dfS	dfS	praatipadika	14				to produce or pay
+dfS	dfS	praatipadika	15				think
+dfS	dfS	praatipadika	16				look at
+dfS	dfS	praatipadika	17				manifested
+dfS	dfS	praatipadika	18				to wait on
+dfS	dfS	praatipadika	19				look into
+dfS	dfS	praatipadika	20				compose
+dfS	dfS	praatipadika	21				behold
+dfS	dfS	praatipadika	22				contrive Aorist
+dfS	dfS	praatipadika	23				care for
+dfS	dfS	praatipadika	24				demonstrate
+dfS	dfS	praatipadika	25				consider
+dfS	dfS	praatipadika	26				examine
+dfS	dfS	praatipadika	27				appear
+dfS	dfS	praatipadika	28				regard
+dfS	dfS	praatipadika	29				learn
+dfS	dfS	praatipadika	30				to cause to see
+dfS	dfS	praatipadika	31				person
+eka	e/ka	praatipadika	0	Name of a son of Raya	Name of a son of Raya	alone; happening only once; single; single of its kind; singular; solitary; unique	one; one of two
+eka	e/ka	praatipadika	1	Name of a teacher	Name of a teacher	a; a unit; an; chief; pre-eminent; unity	no one; nobody
+eka	e/ka	praatipadika	2	a; unity	a; a unit; an; chief; pre-eminent; unity	excellent; identical; sincere; the same; truthful	little; small
+eka	e/ka	praatipadika	3	alone; an; excellent; happening only once; identical; many; one; one by one; one of two; single; single of its kind; singular; solitary; that one only; unique	alone; happening only once; single; single of its kind; singular; solitary; unique	many; one; one by one; one of two; that one only	with preceding
+eka	e/ka	praatipadika	4	following; with preceding	following; with preceding	following; with preceding	truthful
+eka	e/ka	praatipadika	5	little; small	no one; nobody	little; small	sincere
+eka	e/ka	praatipadika	6	no one; nobody	many; one; one by one; one of two; that one only	no one; nobody	unity
+eka	e/ka	praatipadika	7	a unit; chief; pre-eminent	little; small	Name of a son of Raya	unique
+eka	e/ka	praatipadika	8	sincere; the same; truthful	excellent; identical; sincere; the same; truthful	Name of a teacher	one by one
+eka	e/ka	praatipadika	9				solitary
+eka	e/ka	praatipadika	10				the same
+eka	e/ka	praatipadika	11				identical
+eka	e/ka	praatipadika	12				pre-eminent
+eka	e/ka	praatipadika	13				that one only
+eka	e/ka	praatipadika	14				excellent
+eka	e/ka	praatipadika	15				many
+eka	e/ka	praatipadika	16				an
+eka	e/ka	praatipadika	17				chief
+eka	e/ka	praatipadika	18				happening only once
+eka	e/ka	praatipadika	19				a unit
+eka	e/ka	praatipadika	20				following
+eka	e/ka	praatipadika	21				single of its kind
+eka	e/ka	praatipadika	22				singular
+eka	e/ka	praatipadika	23				Name of a son of Raya
+eka	e/ka	praatipadika	24				a
+eka	e/ka	praatipadika	25				Name of a teacher
+eka	e/ka	praatipadika	26				alone
+eka	e/ka	praatipadika	27				single
+eva	e/va	praatipadika	0	a horse	a horse	course; going; moving; proceeding	world
+eva	eva/	avyaya	0	affirmation; command; merely; restrainment	affirmation; command; restrainment	exactly; exactly so; indeed; just so; really; so; truly	really; truly
+eva	e/va	praatipadika	1	conduct; course; going; manner of acting; moving; proceeding	conduct; manner of acting	conduct; manner of acting	usage
+eva	eva/	avyaya	1	alone	detraction; diminution	alone; already; even; immediately on; only; still	still
+eva	e/va	praatipadika	2	custom	custom	quick; speedy	way
+eva	eva/	avyaya	2	detraction; diminution	is a mere expletive without any exact meaning and not translatable implies emphasis	just; merely; very	very
+eva	e/va	praatipadika	3	habit	course; going; moving; proceeding	the earth; world	speedy
+eva	eva/	avyaya	3	even; exactly; exactly so; indeed; just so; really; so; still; truly; very	alone; already; even; immediately on; just; merely; only; still; very	affirmation; command; restrainment	only
+eva	e/va	praatipadika	4	quick; speedy	habit	a horse	proceeding
+eva	eva/	avyaya	4	already; immediately on; just; only	same	detraction; diminution	so
+eva	e/va	praatipadika	5	the earth; world	quick; speedy	custom	the earth
+eva	eva/	avyaya	5	is a mere expletive without any exact meaning and not translatable implies emphasis	exactly; exactly so; indeed; just so; really; so; truly	is a mere expletive without any exact meaning and not translatable implies emphasis	restrainment
+eva	e/va	praatipadika	6	usage	the earth; world	habit	quick
+eva	eva/	avyaya	6	same		same	same
+eva	e/va	praatipadika	7	way	usage	usage	manner of acting
+eva	eva/	avyaya	7				merely
+eva	e/va	praatipadika	8		way	way	habit
+eva	eva/	avyaya	8				just
+eva	e/va	praatipadika	9				course
+eva	eva/	avyaya	9				just so
+eva	e/va	praatipadika	10				moving
+eva	eva/	avyaya	10				exactly
+eva	e/va	praatipadika	11				a horse
+eva	eva/	avyaya	11				immediately on
+eva	e/va	praatipadika	12				going
+eva	eva/	avyaya	12				command
+eva	e/va	praatipadika	13				conduct
+eva	eva/	avyaya	13				affirmation
+eva	e/va	praatipadika	14				custom
+eva	eva/	avyaya	14				exactly so
+eva	eva/	avyaya	15				indeed
+eva	eva/	avyaya	16				is a mere expletive without any exact meaning and not translatable implies emphasis
+eva	eva/	avyaya	17				alone
+eva	eva/	avyaya	18				detraction
+eva	eva/	avyaya	19				already
+eva	eva/	avyaya	20				even
+eva	eva/	avyaya	21				diminution
+gam	gam	dhaatu	0	approach; ascribe guilt to a person; attack; cause to become; condition; denote; explain; grant; intelligible; make clear; partake of; participate in; perceive; receive; to fall to the share of; to go against with hostile intentions; undergo; understand	be going; bring to a place; come; go away; move; not care about; set out; to go; to go to; to go to any state; to let go; to send away; to spend time; to wish to bring; to wish to go	be going; bring to a place; come; move; set out; to go; to go to; to go to any state; to let go; to send away; to spend time; to wish to bring; to wish to go	cause to become; to cause to understand
+gam	gam	dhaatu	1	go away; not care about	guess	denote; explain; intelligible; make clear; meaning; perceive; to cause to understand; to convey an idea; understand	observe; to observe
+gam	gam	dhaatu	2	guess	have sexual intercourse with	approach; ascribe guilt to a person; attack; pass; to approach carnally; to approach with an accusation; to go against with hostile intentions; towards	to wish to bring; to wish to go
+gam	gam	dhaatu	3	have sexual intercourse with	condition; grant; obtain; receive	die; kneel down; make a bow; to decease; to fall to the share of; to go to the earth with the head; to go to the earth with the knees	to go; to go to
+gam	gam	dhaatu	4	kneel down; make a bow; observe	to excel	observe; partake of; participate in; to impart; to observe; undergo	to go to the earth with the head; to go to the earth with the knees
+gam	gam	dhaatu	5	to excel	approach; ascribe guilt to a person; attack; pass; to approach carnally; to approach with an accusation; to go against with hostile intentions; towards	condition; grant; obtain; receive; to strive to obtain	to spend time
+gam	gam	dhaatu	6	be going; bring to a place; come; die; meaning; move; obtain; pass; set out; to approach carnally; to approach with an accusation; to cause a person to go by means of another; to cause to go to any condition; to cause to understand; to convey an idea; to decease; to go; to go to; to go to any state; to go to the earth with the head; to go to the earth with the knees; to go with the mind; to impart; to let go; to observe; to send away; to spend time; to strive to obtain; to wish to bring; to wish to go; towards	die; kneel down; make a bow; to fall to the share of; to go to the earth with the head; to go to the earth with the knees	cause to become; to cause a person to go by means of another; to cause to go to any condition; to go with the mind	to send away
+gam	gam	dhaatu	7		cause to become; denote; explain; intelligible; make clear; meaning; observe; partake of; participate in; perceive; to cause a person to go by means of another; to cause to go to any condition; to cause to understand; to convey an idea; to decease; to go with the mind; to impart; to observe; to strive to obtain; undergo; understand	go away; not care about	to strive to obtain
+gam	gam	dhaatu	8			guess	understand
+gam	gam	dhaatu	9			have sexual intercourse with	undergo
+gam	gam	dhaatu	10			to excel	towards
+gam	gam	dhaatu	11				to fall to the share of
+gam	gam	dhaatu	12				to impart
+gam	gam	dhaatu	13				receive
+gam	gam	dhaatu	14				set out
+gam	gam	dhaatu	15				kneel down
+gam	gam	dhaatu	16				to decease
+gam	gam	dhaatu	17				to go with the mind
+gam	gam	dhaatu	18				to go to any state
+gam	gam	dhaatu	19				to go against with hostile intentions
+gam	gam	dhaatu	20				to cause a person to go by means of another
+gam	gam	dhaatu	21				to let go
+gam	gam	dhaatu	22				to approach with an accusation
+gam	gam	dhaatu	23				to convey an idea
+gam	gam	dhaatu	24				to excel
+gam	gam	dhaatu	25				to cause to go to any condition
+gam	gam	dhaatu	26				move
+gam	gam	dhaatu	27				condition
+gam	gam	dhaatu	28				pass
+gam	gam	dhaatu	29				participate in
+gam	gam	dhaatu	30				attack
+gam	gam	dhaatu	31				ascribe guilt to a person
+gam	gam	dhaatu	32				come
+gam	gam	dhaatu	33				die
+gam	gam	dhaatu	34				to approach carnally
+gam	gam	dhaatu	35				denote
+gam	gam	dhaatu	36				meaning
+gam	gam	dhaatu	37				make clear
+gam	gam	dhaatu	38				bring to a place
+gam	gam	dhaatu	39				guess
+gam	gam	dhaatu	40				intelligible
+gam	gam	dhaatu	41				have sexual intercourse with
+gam	gam	dhaatu	42				perceive
+gam	gam	dhaatu	43				go away
+gam	gam	dhaatu	44				be going
+gam	gam	dhaatu	45				explain
+gam	gam	dhaatu	46				grant
+gam	gam	dhaatu	47				not care about
+gam	gam	dhaatu	48				obtain
+gam	gam	dhaatu	49				approach
+gam	gam	dhaatu	50				partake of
+gam	gam	dhaatu	51				make a bow
+grah	grah	dhaatu	0	accept; approve; receive	draw water	grasp; lay hold of; seize; to be about to eclipse; to be about to seize; to be about to take away; to be meant by; to cause any one to be captured; to cause any one to be seized; to cause to take; to collect a store of anything; to eclipse; to lay the hand on; to place upon; to pluck; to take for; to take into the mouth; to take on one's self; to take up; to use	to choose; to make any one choose
+grah	grah	dhaatu	1	draw water	grasp; lay hold of; to be about to eclipse; to be about to seize; to be about to take away; to be meant by; to cause any one to be captured; to cause any one to be seized; to cause to take; to collect a store of anything; to eclipse; to include; to lay the hand on; to place upon; to pluck; to take for; to take into the mouth; to take on one's self; to take up; to use	accept; admit; approve; claim; consider as; follow; keep; pick; put on; take; take away; take back; win	apprehend; strive to apprehend
+grah	grah	dhaatu	2	consider as; familiar with; make acquainted; mention; name; recognise	accept; admit; apprehend; approve; begin; claim; consider as; familiar with; follow; gather; keep; make acquainted; mention; name; observe; pick; put on; recognise; seize; take; take away; take back; undergo; undertake; win	apprehend; learn; observe; strive to apprehend; to assume; to calculate; to desire to perceive; to gain; to make any one learn; to obey; to observe; to perceive; understand	to be about to seize; to be about to take away
+grah	grah	dhaatu	3	give away a girl in marriage to any one; to choose any one as a wife	overpowered over to any one	give away a girl in marriage to any one; obtain; receive; to accept; to acquire by purchase; to cause to marry; to choose; to choose any one as a wife; to make any one choose; to receive hospitably; to receive into the mind	win
+grah	grah	dhaatu	4	admit; claim; grasp; learn; pick; understand	give away a girl in marriage to any one; obtain; receive; to accept; to acquire by purchase; to cause to marry; to choose; to choose any one as a wife; to make any one choose; to receive hospitably	familiar with; make acquainted; mention; name; recognise; to include	to be about to eclipse; to eclipse
+grah	grah	dhaatu	5	overpowered over to any one	learn; strive to apprehend; to abstract; to assume; to calculate; to desire to perceive; to gain; to make any one learn; to obey; to observe; to perceive; to receive into the mind; understand	begin; gather; to abstract; undergo; undertake	to receive into the mind
+grah	grah	dhaatu	6	follow; keep; put on; strive to apprehend; take; take away; take back; to abstract; to assume; to be about to eclipse; to choose; to desire to perceive; to eclipse; to perceive; undergo		draw water	accept; to accept
+grah	grah	dhaatu	7	apprehend; begin; gather; lay hold of; observe; obtain; seize; to accept; to acquire by purchase; to be about to seize; to be about to take away; to be meant by; to calculate; to cause any one to be captured; to cause any one to be seized; to cause to marry; to cause to take; to collect a store of anything; to gain; to include; to lay the hand on; to make any one choose; to make any one learn; to obey; to observe; to place upon; to pluck; to receive hospitably; to receive into the mind; to take for; to take into the mouth; to take on one's self; to take up; to use; undertake; win		overpowered over to any one	understand
+grah	grah	dhaatu	8				to obey
+grah	grah	dhaatu	9				undertake
+grah	grah	dhaatu	10				observe; to observe
+grah	grah	dhaatu	11				to choose any one as a wife
+grah	grah	dhaatu	12				to gain
+grah	grah	dhaatu	13				to desire to perceive; to perceive
+grah	grah	dhaatu	14				undergo
+grah	grah	dhaatu	15				to take into the mouth
+grah	grah	dhaatu	16				to take on one's self
+grah	grah	dhaatu	17				to make any one learn
+grah	grah	dhaatu	18				to lay the hand on
+grah	grah	dhaatu	19				to assume
+grah	grah	dhaatu	20				to take up
+grah	grah	dhaatu	21				recognise
+grah	grah	dhaatu	22				to cause any one to be captured; to cause any one to be seized
+grah	grah	dhaatu	23				to abstract
+grah	grah	dhaatu	24				take back
+grah	grah	dhaatu	25				to collect a store of anything
+grah	grah	dhaatu	26				to be meant by
+grah	grah	dhaatu	27				to pluck
+grah	grah	dhaatu	28				to take for
+grah	grah	dhaatu	29				to include
+grah	grah	dhaatu	30				to receive hospitably
+grah	grah	dhaatu	31				draw water
+grah	grah	dhaatu	32				to cause to take
+grah	grah	dhaatu	33				name
+grah	grah	dhaatu	34				take away
+grah	grah	dhaatu	35				consider as
+grah	grah	dhaatu	36				keep
+grah	grah	dhaatu	37				approve
+grah	grah	dhaatu	38				mention
+grah	grah	dhaatu	39				follow
+grah	grah	dhaatu	40				grasp
+grah	grah	dhaatu	41				to calculate
+grah	grah	dhaatu	42				to place upon
+grah	grah	dhaatu	43				admit
+grah	grah	dhaatu	44				pick
+grah	grah	dhaatu	45				begin
+grah	grah	dhaatu	46				to use
+grah	grah	dhaatu	47				overpowered over to any one
+grah	grah	dhaatu	48				seize
+grah	grah	dhaatu	49				claim
+grah	grah	dhaatu	50				obtain
+grah	grah	dhaatu	51				familiar with
+grah	grah	dhaatu	52				put on
+grah	grah	dhaatu	53				learn
+grah	grah	dhaatu	54				take
+grah	grah	dhaatu	55				gather
+grah	grah	dhaatu	56				to cause to marry
+grah	grah	dhaatu	57				make acquainted
+grah	grah	dhaatu	58				lay hold of
+grah	grah	dhaatu	59				receive
+grah	grah	dhaatu	60				give away a girl in marriage to any one
+grah	grah	dhaatu	61				to acquire by purchase
+han	han	dhaatu	0	a killer; killing; slayer	a killer; killing; slayer	a killer; killing; slayer	slayer
+han	han	naama-dhaatu	0	abandon; give up; mar; pound	avert; hinder; to dispel; to hurl upon; to hurt; to obstruct; to repress; to smite; to ward off	beat; come into contact; hammer; hit; pound; strike upon; to be struck; to strike; to strike off; to strike or tread upon; to touch	to be struck; to strike; to strike off
+han	han	dhaatu	1				killing
+han	han	naama-dhaatu	1	beat; come into contact; hammer; hit; strike upon; to mar; to touch; wound	abandon; give up; mar; to mar	cause to be executed; kill; killed; punish; put to death; slay; to cause to be slain; to notify a person's death; to put to death; to slay; to wish to kill	mar; to mar
+han	han	dhaatu	2				a killer
+han	han	naama-dhaatu	2	avert; cause to be executed; destroy; hinder; injure; kill; killed; punish; put to death; slay; to be struck; to cause to be slain; to dispel; to hurl upon; to hurt; to notify a person's death; to obstruct; to put to death; to repress; to slay; to smite; to strike; to strike off; to strike or tread upon; to ward off; to wish to kill	cause to be executed; destroy; kill; killed; punish; put to death; slay; to cause to be slain; to notify a person's death; to put to death; to slay; to wish to kill	avert; hinder; to dispel; to hurl upon; to obstruct; to repress; to ward off	slay; to slay
+han	han	naama-dhaatu	3		beat; come into contact; hammer; hit; injure; pound; strike upon; to be struck; to strike; to strike off; to strike or tread upon; to touch; wound	abandon; destroy; give up	to smite
+han	han	naama-dhaatu	4			injure; to hurt; wound	wound
+han	han	naama-dhaatu	5			mar; to mar; to smite	put to death; to put to death
+han	han	naama-dhaatu	6				kill; killed
+han	han	naama-dhaatu	7				to notify a person's death
+han	han	naama-dhaatu	8				punish
+han	han	naama-dhaatu	9				give up
+han	han	naama-dhaatu	10				to wish to kill
+han	han	naama-dhaatu	11				to strike or tread upon
+han	han	naama-dhaatu	12				to obstruct
+han	han	naama-dhaatu	13				to touch
+han	han	naama-dhaatu	14				to ward off
+han	han	naama-dhaatu	15				to hurt
+han	han	naama-dhaatu	16				to hurl upon
+han	han	naama-dhaatu	17				avert
+han	han	naama-dhaatu	18				hit
+han	han	naama-dhaatu	19				cause to be executed
+han	han	naama-dhaatu	20				abandon
+han	han	naama-dhaatu	21				hinder
+han	han	naama-dhaatu	22				beat
+han	han	naama-dhaatu	23				destroy
+han	han	naama-dhaatu	24				pound
+han	han	naama-dhaatu	25				hammer
+han	han	naama-dhaatu	26				injure
+han	han	naama-dhaatu	27				come into contact
+han	han	naama-dhaatu	28				strike upon
+han	han	naama-dhaatu	29				to cause to be slain
+han	han	naama-dhaatu	30				to repress
+han	han	naama-dhaatu	31				to dispel
+hari	ha/ri	praatipadika	0	Name of Brahmā; Name of Indra; Name of Suparṇa; Name of Viṣṇu-Kṛṣṇa; Name of Vāyu; Name of Yama; Name of a Dānava; Name of a metre; Name of a mountain; Name of a particular high number; Name of a son of Akampana; Name of a son of Garuḍa; Name of a son of Parājit; Name of a son of Parāvṛt; Name of a son of Tārakākṣa; Name of Śiva; Name of Śukra; a particular class of gods under Manu Tāmasa	Name of a metre; Name of a mountain; Name of a particular high number; Name of a world; a ray of light; fire; the moon; the sun; the wind	Name of Brahmā; Name of Indra; Name of Suparṇa; Name of Viṣṇu-Kṛṣṇa; Name of Vāyu; Name of Yama; Name of a Dānava; Name of a Rākṣasa; Name of a son of Akampana; Name of a son of Garuḍa; Name of a son of Parājit; Name of a son of Parāvṛt; Name of a son of Tārakākṣa; Name of a worshipper of Viṣṇu; Name of Śiva; Name of Śukra; a particular class of gods under Manu Tāmasa	a lion; a monkey
+hari	hari	praatipadika	0	an exclamation	an exclamation	bearing; carrying	carrying
+hari	ha/ri	praatipadika	1	Name of a worshipper of Viṣṇu; Name of various authors; scholars	Name of Brahmā; Name of Indra; Name of Suparṇa; Name of Viṣṇu-Kṛṣṇa; Name of Vāyu; Name of Yama; Name of a Dānava; Name of a Rākṣasa; Name of a son of Akampana; Name of a son of Garuḍa; Name of a son of Parājit; Name of a son of Parāvṛt; Name of a son of Tārakākṣa; Name of a worshipper of Viṣṇu; Name of Śiva; Name of Śukra; a particular class of gods under Manu Tāmasa	Phaseolus Mungo; a frog; a goose; a horse; a jackal; a lion; a monkey; a parrot; a peacock; a snake; steed; the Koil or Indian cuckoo	a goose; a parrot; a peacock
+hari	hari	praatipadika	1	bearing; carrying	bearing; carrying	an exclamation	an exclamation
+hari	ha/ri	praatipadika	2	Phaseolus Mungo	Name of various authors; scholars	bay; brown; fallow; fawn-coloured; green; greenish; pale yellow; reddish brown; tawny; yellow	pale yellow; yellow
+hari	hari	praatipadika	2				bearing
+hari	ha/ri	praatipadika	3	Name of a Rākṣasa; Name of a world; a ray of light; fire; the Koil or Indian cuckoo; the moon; the sun	Phaseolus Mungo; a frog; a goose; a horse; a jackal; a lion; a monkey; a parrot; a peacock; a snake; steed; the Koil or Indian cuckoo	Name of a metre; Name of a mountain; Name of a particular high number; Name of a world; a ray of light; fire; the moon; the sun; the wind	brown; reddish brown
+hari	ha/ri	praatipadika	4	bay	bay; brown; fallow; fawn-coloured; green; greenish; pale yellow; reddish brown; tawny; yellow	Name of various authors; scholars	green; greenish
+hari	ha/ri	praatipadika	5	fallow; green; greenish; pale yellow; tawny; yellow	men; people	men; people	the sign of the zodiac Leo
+hari	ha/ri	praatipadika	6	men; people	the sign of the zodiac Leo	the sign of the zodiac Leo	the wind
+hari	ha/ri	praatipadika	7	a frog; a goose; a horse; a jackal; a lion; a monkey; a parrot; a peacock; a snake; brown; fawn-coloured; reddish brown; steed; the wind			fawn-coloured
+hari	ha/ri	praatipadika	8	the sign of the zodiac Leo			Name of a son of Parājit; Name of a son of Parāvṛt
+hari	ha/ri	praatipadika	9				the Koil or Indian cuckoo
+hari	ha/ri	praatipadika	10				the moon
+hari	ha/ri	praatipadika	11				tawny
+hari	ha/ri	praatipadika	12				a particular class of gods under Manu Tāmasa
+hari	ha/ri	praatipadika	13				steed
+hari	ha/ri	praatipadika	14				fire
+hari	ha/ri	praatipadika	15				bay
+hari	ha/ri	praatipadika	16				a jackal
+hari	ha/ri	praatipadika	17				Name of a world
+hari	ha/ri	praatipadika	18				the sun
+hari	ha/ri	praatipadika	19				fallow
+hari	ha/ri	praatipadika	20				a ray of light
+hari	ha/ri	praatipadika	21				Name of a son of Tārakākṣa
+hari	ha/ri	praatipadika	22				a frog
+hari	ha/ri	praatipadika	23				Phaseolus Mungo
+hari	ha/ri	praatipadika	24				Name of a mountain
+hari	ha/ri	praatipadika	25				Name of a worshipper of Viṣṇu
+hari	ha/ri	praatipadika	26				Name of Brahmā
+hari	ha/ri	praatipadika	27				scholars
+hari	ha/ri	praatipadika	28				men
+hari	ha/ri	praatipadika	29				Name of Vāyu
+hari	ha/ri	praatipadika	30				Name of a son of Garuḍa
+hari	ha/ri	praatipadika	31				Name of various authors
+hari	ha/ri	praatipadika	32				a horse
+hari	ha/ri	praatipadika	33				Name of Yama
+hari	ha/ri	praatipadika	34				Name of Śiva
+hari	ha/ri	praatipadika	35				Name of a Dānava
+hari	ha/ri	praatipadika	36				Name of a son of Akampana
+hari	ha/ri	praatipadika	37				Name of Indra
+hari	ha/ri	praatipadika	38				people
+hari	ha/ri	praatipadika	39				Name of a Rākṣasa
+hari	ha/ri	praatipadika	40				a snake
+hari	ha/ri	praatipadika	41				Name of Viṣṇu-Kṛṣṇa
+hari	ha/ri	praatipadika	42				Name of Śukra
+hari	ha/ri	praatipadika	43				Name of Suparṇa
+hari	ha/ri	praatipadika	44				Name of a metre
+hari	ha/ri	praatipadika	45				Name of a particular high number
+hi	hi	dhaatu	0	abandon; delight; get rid of; help to; hurl; impel; shoot; urge on	abandon; get rid of; hurl; impel; shoot; to forsake	delight; help to; to assist; to convey; to discharge; to gladden; to stimulate	urge on
+hi	hi/	avyaya	0	do; pray	just	do; pray	pray
+hi	hi/	dhaatu	0	an interjection of envy and contempt and hurry; often a mere expletive	assuredly; certainly; most assuredly; of course; surely	assuredly; most assuredly; of course; surely	certainly; surely
+hi	hi	dhaatu	1	bring; hasten on; incite to; procure; set in motion; to assist; to convey; to discharge; to forsake; to gladden; to send forth; to stimulate	cast	bring; hasten on; incite to; procure; set in motion; to send forth; urge on	to stimulate
+hi	hi/	avyaya	1	just	do; pray	just	just
+hi	hi/	dhaatu	1	assuredly; certainly; indeed; indeed-but; most assuredly; of course; surely	because; on account of	certainly; indeed; indeed-but	assuredly; most assuredly
+hi	hi	dhaatu	2	cast	bring; delight; help to; procure; set in motion; to assist; to convey; to discharge; to gladden; to send forth; to stimulate	abandon; get rid of; hurl; impel; shoot; to forsake	to discharge
+hi	hi/	avyaya	2				do
+hi	hi/	dhaatu	2	because; on account of	especially to avoid a hiatus	an interjection of envy and contempt and hurry; often a mere expletive	on account of
+hi	hi	dhaatu	3		hasten on; incite to; urge on	cast	to gladden
+hi	hi/	dhaatu	3	especially to avoid a hiatus	for	because; on account of	especially to avoid a hiatus
+hi	hi	dhaatu	4				to send forth
+hi	hi/	dhaatu	4	for	indeed; indeed-but	especially to avoid a hiatus	sometimes repeated in the same sentence
+hi	hi	dhaatu	5				set in motion
+hi	hi/	dhaatu	5	sometimes repeated in the same sentence	an interjection of envy and contempt and hurry; often a mere expletive	for	indeed
+hi	hi	dhaatu	6				shoot
+hi	hi/	dhaatu	6		sometimes repeated in the same sentence	sometimes repeated in the same sentence	indeed-but
+hi	hi	dhaatu	7				to forsake
+hi	hi/	dhaatu	7				because
+hi	hi	dhaatu	8				hasten on
+hi	hi/	dhaatu	8				an interjection of envy and contempt and hurry
+hi	hi	dhaatu	9				to convey
+hi	hi/	dhaatu	9				often a mere expletive
+hi	hi	dhaatu	10				help to
+hi	hi/	dhaatu	10				of course
+hi	hi	dhaatu	11				hurl
+hi	hi/	dhaatu	11				for
+hi	hi	dhaatu	12				get rid of
+hi	hi	dhaatu	13				impel
+hi	hi	dhaatu	14				incite to
+hi	hi	dhaatu	15				delight
+hi	hi	dhaatu	16				procure
+hi	hi	dhaatu	17				cast
+hi	hi	dhaatu	18				abandon
+hi	hi	dhaatu	19				bring
+hi	hi	dhaatu	20				to assist
+kAla	kAla	praatipadika	0	Name of Rudra; Name of a Nāga-rāja; Name of a Rakṣas; Name of a brother of king Prasena-jit; Name of a future Buddha; Name of a mountain; Name of a son of Hrada; Name of an author of Mantras; Name of an enemy of Śiva; Name of Śiva; a mystical Name of the letter; of the prince Kāla-yavana; the poisonous serpent Coluber Naga	Name of Rudra; Name of a Nāga-rāja; Name of a Rakṣas; Name of a brother of king Prasena-jit; Name of a future Buddha; Name of a son of Hrada; Name of an author of Mantras; Name of an enemy of Śiva; Name of Śiva; of the prince Kāla-yavana; the poisonous serpent Coluber Naga	Name of Rudra; Name of a Nāga-rāja; Name of a Rakṣas; Name of a brother of king Prasena-jit; Name of a future Buddha; Name of a son of Hrada; Name of an author of Mantras; Name of an enemy of Śiva; Name of Śiva; of the prince Kāla-yavana; the poisonous serpent Coluber Naga	a black; black
+kAla	kAla/	praatipadika	0	a fixed	a fixed	hour; meal-time; measure of time; right point of time; the proper time; time; time of the world	death; death by age
+kAla	kAla	praatipadika	1	a black; a black kind of Agallochum; a kind of perfume; a red kind of Plumbago; black; dark-blue; dark-blue colour; of a dark colour; of one of the nine treasures; the black part of the eye	Name of a mountain; a mystical Name of the letter; of one of the nine treasures	a black; a black kind of Agallochum; a kind of perfume; a red kind of Plumbago; black; dark-blue; dark-blue colour; of a dark colour; the black part of the eye	dark-blue; dark-blue colour
+kAla	kAla/	praatipadika	1	a period of time; a section; a space of time; hour; meal-time; measure of time; occasion; part; right point of time; season; season for; the proper time; time; time of the world	circumstance; death; death by age; destiny; fate; occasion; the end	a period of time; a section; a space of time; part; season; season for	right point of time; the proper time
+kAla	kAla	praatipadika	2	iron	a black; a black kind of Agallochum; a kind of perfume; a red kind of Plumbago; black; dark-blue; dark-blue colour; of a dark colour; the black part of the eye	Name of a mountain; a mystical Name of the letter; of one of the nine treasures	Name of an enemy of Śiva; Name of Śiva
+kAla	kAla/	praatipadika	2	prosody	prosody	death; death by age; the end; time of death	destiny; fate
+kAla	kAla	praatipadika	3	the Indian cuckoo	iron	the plant Cassia Sophora; the resin of the plant Shorea robusta	the poisonous serpent Coluber Naga
+kAla	kAla/	praatipadika	3	circumstance; death; death by age; destiny; fate; the end; time of death	season; season for	circumstance; destiny; fate; occasion	season; season for
+kAla	kAla	praatipadika	4	the planet Saturn	the Indian cuckoo	iron	the plant Cassia Sophora
+kAla	kAla/	praatipadika	4		a period of time; a section; a space of time; hour; meal-time; measure of time; part; right point of time; the proper time; time; time of death; time of the world	a fixed	occasion
+kAla	kAla	praatipadika	5	the plant Cassia Sophora; the resin of the plant Shorea robusta	the planet Saturn	the Indian cuckoo	the resin of the plant Shorea robusta
+kAla	kAla/	praatipadika	5			prosody	time
+kAla	kAla	praatipadika	6		the plant Cassia Sophora; the resin of the plant Shorea robusta	the planet Saturn	of one of the nine treasures
+kAla	kAla/	praatipadika	6				meal-time
+kAla	kAla	praatipadika	7				the planet Saturn
+kAla	kAla/	praatipadika	7				time of the world
+kAla	kAla	praatipadika	8				of the prince Kāla-yavana
+kAla	kAla/	praatipadika	8				the end
+kAla	kAla	praatipadika	9				the Indian cuckoo
+kAla	kAla/	praatipadika	9				a fixed
+kAla	kAla	praatipadika	10				a red kind of Plumbago
+kAla	kAla/	praatipadika	10				a section
+kAla	kAla	praatipadika	11				of a dark colour
+kAla	kAla/	praatipadika	11				hour
+kAla	kAla	praatipadika	12				Name of a mountain
+kAla	kAla/	praatipadika	12				part
+kAla	kAla	praatipadika	13				a kind of perfume
+kAla	kAla/	praatipadika	13				a space of time
+kAla	kAla	praatipadika	14				a mystical Name of the letter
+kAla	kAla/	praatipadika	14				circumstance
+kAla	kAla	praatipadika	15				Name of an author of Mantras
+kAla	kAla/	praatipadika	15				prosody
+kAla	kAla	praatipadika	16				the black part of the eye
+kAla	kAla/	praatipadika	16				time of death
+kAla	kAla	praatipadika	17				a black kind of Agallochum
+kAla	kAla/	praatipadika	17				a period of time
+kAla	kAla	praatipadika	18				Name of a future Buddha
+kAla	kAla/	praatipadika	18				measure of time
+kAla	kAla	praatipadika	19				Name of a son of Hrada
+kAla	kAla	praatipadika	20				Name of a brother of king Prasena-jit
+kAla	kAla	praatipadika	21				Name of a Rakṣas
+kAla	kAla	praatipadika	22				Name of a Nāga-rāja
+kAla	kAla	praatipadika	23				Name of Rudra
+kAla	kAla	praatipadika	24				iron
+karman	ka/rman	praatipadika	0	act; action; action consisting in motion; activity; any religious act; business; labour; obligation; occupation; office; special duty; work	act; action; action consisting in motion; activity; any religious act	business; labour; obligation; occupation; office; special duty; work	work
+karman	ka/rman	praatipadika	1	calculation; effect; fate; former act as leading to inevitable results; performance; product; result	calculation; effect; fate; former act as leading to inevitable results; performance; product; result	calculation; effect; fate; former act as leading to inevitable results; performance; product; result	special duty
+karman	ka/rman	praatipadika	2	medical attendance	medical attendance	act; action; action consisting in motion; activity; any religious act	the tenth lunar mansion
+karman	ka/rman	praatipadika	3	organ of sense; the object	business; labour; obligation; occupation; office; special duty; work	organ of sense; the object	physicking
+karman	ka/rman	praatipadika	4	physicking	physicking	medical attendance	rite
+karman	ka/rman	praatipadika	5	rite	rite	physicking	organ of sense
+karman	ka/rman	praatipadika	6	the tenth lunar mansion	organ of sense; the object	rite	the object
+karman	ka/rman	praatipadika	7		the tenth lunar mansion	the tenth lunar mansion	medical attendance
+karman	ka/rman	praatipadika	8				obligation
+karman	ka/rman	praatipadika	9				office
+karman	ka/rman	praatipadika	10				product
+karman	ka/rman	praatipadika	11				fate
+karman	ka/rman	praatipadika	12				occupation
+karman	ka/rman	praatipadika	13				result
+karman	ka/rman	praatipadika	14				performance
+karman	ka/rman	praatipadika	15				any religious act
+karman	ka/rman	praatipadika	16				labour
+karman	ka/rman	praatipadika	17				calculation
+karman	ka/rman	praatipadika	18				effect
+karman	ka/rman	praatipadika	19				act
+karman	ka/rman	praatipadika	20				former act as leading to inevitable results
+karman	ka/rman	praatipadika	21				action consisting in motion
+karman	ka/rman	praatipadika	22				activity
+karman	ka/rman	praatipadika	23				business
+karman	ka/rman	praatipadika	24				action
+kavi	kav	praatipadika	0	Name of Agni; Name of Indra; Name of Maruts; Name of Varuṇa; Name of several gods; Name of the Aśvins; Name of Ādityas	Name of Agni; Name of Indra; Name of Maruts; Name of Varuṇa; Name of several gods; Name of the Aśvins; Name of Ādityas	a singer; a wise man; bard; poet; prophet; sage; seer	seer
+kavi	kavi/	praatipadika	0	Name of Brahmā; Name of Pūṣan; Name of Vālmīki; Name of a son of Kauśika; Name of the Soma; the soul in the Sāṃkhya philosophy	Name of a particular poet	Name of Brahmā; Name of Pūṣan; Name of Vālmīki; Name of a son of Bhṛgu; Name of a son of Brahmā; Name of a son of Kauśika; Name of a son of Ṛṣabha; Name of ancient patriarchs; Name of other sacrificers; Name of the Soma; Name of the Soma priest; Name of the ancient sages; Name of the gates of the sacrificial enclosure; Name of the sons of several Manus; Name of the Ṛbhus; Name of Śukra; father of Śukra; the soul in the Sāṃkhya philosophy	Name of the Soma; Name of the Soma priest
+kavi	kav	praatipadika	1	a singer; a wise man; bard; poet; prophet; sage; seer	a singer; a wise man; bard; poet; prophet; sage; seer	Name of Agni; Name of Indra; Name of Maruts; Name of Varuṇa; Name of several gods; Name of the Aśvins; Name of Ādityas	sage
+kavi	kavi/	praatipadika	1	Name of a particular poet	Name of Brahmā; Name of Pūṣan; Name of Vālmīki; Name of a son of Bhṛgu; Name of a son of Brahmā; Name of a son of Kauśika; Name of a son of Ṛṣabha; Name of ancient patriarchs; Name of other sacrificers; Name of the Soma; Name of the Soma priest; Name of the ancient sages; Name of the gates of the sacrificial enclosure; Name of the sons of several Manus; Name of the Ṛbhus; Name of Śukra; father of Śukra; the soul in the Sāṃkhya philosophy	a cunning fighter; a thinker; cunning; enlightened; gifted with insight; intelligent; intelligent man; knowing; man of understanding; of various men; prudent; sensible; skilful; wise	intelligent; intelligent man
+kavi	kav	praatipadika	2				poet
+kavi	kavi/	praatipadika	2	Name of a son of Bhṛgu; Name of a son of Brahmā; Name of a son of Ṛṣabha; Name of ancient patriarchs; Name of other sacrificers; Name of the Soma priest; Name of the ancient sages; Name of the gates of the sacrificial enclosure; Name of the sons of several Manus; Name of Śukra; father of Śukra	Name of the planet Venus	a keeper; a ladle; an owl; leader; the bit of a bridle; the reins	the sun
+kavi	kav	praatipadika	3				Name of the Aśvins
+kavi	kavi/	praatipadika	3	Name of the planet Venus	a keeper; a ladle; an owl; leader; the bit of a bridle; the reins	Name of a particular poet	Name of Brahmā; Name of a son of Brahmā
+kavi	kav	praatipadika	4				prophet
+kavi	kavi/	praatipadika	4	a cunning fighter; a thinker; cunning; enlightened; gifted with insight; intelligent; intelligent man; knowing; man of understanding; of various men; prudent; sensible; skilful; wise	herd	Name of the planet Venus	Name of Śukra; father of Śukra
+kavi	kav	praatipadika	5				a singer
+kavi	kavi/	praatipadika	5	herd	a cunning fighter; a thinker; cunning; enlightened; gifted with insight; intelligent; intelligent man; knowing; man of understanding; of various men; prudent; sensible; skilful; wise	herd	skilful
+kavi	kav	praatipadika	6				bard
+kavi	kavi/	praatipadika	6	pupil of Garga	pupil of Garga	pupil of Garga	pupil of Garga
+kavi	kav	praatipadika	7				Name of several gods
+kavi	kavi/	praatipadika	7	Name of the Ṛbhus; a keeper; a ladle; an owl; leader; the bit of a bridle; the reins	the sun	the sun	wise
+kavi	kav	praatipadika	8				Name of Maruts
+kavi	kavi/	praatipadika	8	the sun			prudent
+kavi	kav	praatipadika	9				Name of Varuṇa
+kavi	kavi/	praatipadika	9				the soul in the Sāṃkhya philosophy
+kavi	kav	praatipadika	10				Name of Indra
+kavi	kavi/	praatipadika	10				the reins
+kavi	kav	praatipadika	11				Name of Ādityas
+kavi	kavi/	praatipadika	11				Name of the Ṛbhus
+kavi	kav	praatipadika	12				Name of Agni
+kavi	kavi/	praatipadika	12				of various men
+kavi	kav	praatipadika	13				a wise man
+kavi	kavi/	praatipadika	13				knowing
+kavi	kavi/	praatipadika	14				cunning
+kavi	kavi/	praatipadika	15				a thinker
+kavi	kavi/	praatipadika	16				enlightened
+kavi	kavi/	praatipadika	17				leader
+kavi	kavi/	praatipadika	18				an owl
+kavi	kavi/	praatipadika	19				sensible
+kavi	kavi/	praatipadika	20				the bit of a bridle
+kavi	kavi/	praatipadika	21				Name of the ancient sages
+kavi	kavi/	praatipadika	22				a keeper
+kavi	kavi/	praatipadika	23				Name of the planet Venus
+kavi	kavi/	praatipadika	24				Name of Pūṣan
+kavi	kavi/	praatipadika	25				Name of Vālmīki
+kavi	kavi/	praatipadika	26				man of understanding
+kavi	kavi/	praatipadika	27				Name of other sacrificers
+kavi	kavi/	praatipadika	28				gifted with insight
+kavi	kavi/	praatipadika	29				a ladle
+kavi	kavi/	praatipadika	30				Name of a son of Kauśika
+kavi	kavi/	praatipadika	31				Name of a particular poet
+kavi	kavi/	praatipadika	32				Name of the sons of several Manus
+kavi	kavi/	praatipadika	33				Name of the gates of the sacrificial enclosure
+kavi	kavi/	praatipadika	34				Name of a son of Ṛṣabha
+kavi	kavi/	praatipadika	35				herd
+kavi	kavi/	praatipadika	36				Name of a son of Bhṛgu
+kavi	kavi/	praatipadika	37				a cunning fighter
+kavi	kavi/	praatipadika	38				Name of ancient patriarchs
+kf	kf	dhaatu	0	a fog	a fog	a fog	to injure
+kf	kf	dhaatu	1	being done	being done	being done	a fog
+kf	kf	dhaatu	2	to injure	to injure	to injure	being done
+mad	mad	dhaatu	0	animate; pause; stand still	base of the first person pronoun in the singular number number	be drunk with; exhilarate; exult; inflame; inspire; intoxicate; rejoice; revel in	exhilarate; exult
+mad	mad	dhaatu	1	at ease; to enjoy heavenly bliss; to tarry	at ease; be glad; be pleased; delight; happy; satisfy	at ease; be glad; be pleased; delight; happy; satisfy	to be glad; to rejoice
+mad	mad	dhaatu	2	base of the first person pronoun in the singular number number	bubble	to be glad; to boil; to enjoy heavenly bliss; to gladden; to rejoice; to tarry	be glad; be pleased
+mad	mad	dhaatu	3	be drunk with; be glad; be pleased; delight; exhilarate; exult; happy; inflame; inspire; intoxicate; rejoice; revel in; satisfy; to be glad; to boil; to gladden; to rejoice	be drunk with; exhilarate; exult; inflame; inspire; intoxicate; rejoice; revel in	animate; pause; stand still	satisfy
+mad	mad	dhaatu	4	bubble	animate; pause; stand still	base of the first person pronoun in the singular number number	to enjoy heavenly bliss
+mad	mad	dhaatu	5		to be glad; to boil; to enjoy heavenly bliss; to gladden; to rejoice; to tarry	bubble	to tarry
+mad	mad	dhaatu	6				to gladden
+mad	mad	dhaatu	7				revel in
+mad	mad	dhaatu	8				pause
+mad	mad	dhaatu	9				rejoice
+mad	mad	dhaatu	10				inflame
+mad	mad	dhaatu	11				to boil
+mad	mad	dhaatu	12				intoxicate
+mad	mad	dhaatu	13				bubble
+mad	mad	dhaatu	14				stand still
+mad	mad	dhaatu	15				base of the first person pronoun in the singular number number
+mad	mad	dhaatu	16				be drunk with
+mad	mad	dhaatu	17				at ease
+mad	mad	dhaatu	18				delight
+mad	mad	dhaatu	19				animate
+mad	mad	dhaatu	20				inspire
+mad	mad	dhaatu	21				happy
+muc	muc	dhaatu	0	abandon; absolve from; be about to set free; beatitude; delight; depose; despatch; destitute of; discharge; discharging; dismiss; dropping; escape; free; give up; grant; hurl; leave; let go; let live; letting fall; letting go; liberate; quit; release; released; shed; shoot; shooting; slacken; spend; throw; to abstain from; to be about to give up; to cheat; to get rid of; unharness; unyoke; utter; yield enjoyment	cast; intend to cast	delivering from; emit; to be about to give up; to be loosed; to cause to loose; to cheat; to deliver one's self from; to get rid of; to give away; to loose; to open; to put on; to redeem; to send forth; to spare; to wish; to wish to deliver; to yield	be about to set free; freeing; to be set free; to set free
+muc	muc	dhaatu	1	allow to depart; bestow; cast; deliverance; delivering from; emit; freeing; intend to cast; let loose; relinquish; set aside; to be deprived; to be loosed; to be set free; to cause to loose; to deliver one's self from; to desire final liberation; to give away; to gladden; to loose; to open; to put on; to redeem; to relinquish; to send forth; to set free; to spare; to unloose; to wish; to wish to deliver; to wish to free one's self; to yield	abandon; allow to depart; depose; despatch; discharge; discharging; dismiss; dropping; give up; hurl; leave; let go; let loose; letting fall; letting go; quit; relinquish; set aside; shed; shoot; shooting; slacken; spend; throw; to relinquish; unharness; unyoke	abandon; absolve from; allow to depart; dismiss; give up; hurl; leave; let go; quit; relinquish; set aside; shoot; throw; to abstain from; to relinquish; unyoke	cast; intend to cast
+muc	muc	dhaatu	2	sending	absolve from; be about to set free; deliverance; escape; free; freeing; let live; liberate; release; released; to abstain from; to be set free; to desire final liberation; to set free; to wish to free one's self	be about to set free; deliverance; escape; free; freeing; let live; liberate; release; released; to be set free; to desire final liberation; to set free; to wish to free one's self	to desire final liberation; to wish to free one's self
+muc	muc	dhaatu	3		sending	discharge; discharging; dropping; let loose; letting fall; letting go; shed; shooting; slacken; spend	to wish; to wish to deliver
+muc	muc	dhaatu	4		beatitude; bestow; delight; delivering from; destitute of; emit; grant; to be about to give up; to be deprived; to be loosed; to cause to loose; to cheat; to deliver one's self from; to get rid of; to give away; to gladden; to loose; to open; to put on; to redeem; to send forth; to spare; to unloose; to wish; to wish to deliver; to yield; utter; yield enjoyment	beatitude; bestow; delight; destitute of; grant; to be deprived; to gladden; unharness; utter; yield enjoyment	to be loosed; to cause to loose; to loose
+muc	muc	dhaatu	5			depose; despatch; to unloose	to put on
+muc	muc	dhaatu	6			cast; intend to cast	release; released
+muc	muc	dhaatu	7			sending	to spare
+muc	muc	dhaatu	8				relinquish; to relinquish
+muc	muc	dhaatu	9				let go; letting go
+muc	muc	dhaatu	10				unyoke
+muc	muc	dhaatu	11				to gladden
+muc	muc	dhaatu	12				to get rid of
+muc	muc	dhaatu	13				unharness
+muc	muc	dhaatu	14				to send forth
+muc	muc	dhaatu	15				shooting
+muc	muc	dhaatu	16				slacken
+muc	muc	dhaatu	17				to redeem
+muc	muc	dhaatu	18				yield enjoyment
+muc	muc	dhaatu	19				set aside
+muc	muc	dhaatu	20				utter
+muc	muc	dhaatu	21				to cheat
+muc	muc	dhaatu	22				let live
+muc	muc	dhaatu	23				sending
+muc	muc	dhaatu	24				to be deprived
+muc	muc	dhaatu	25				spend
+muc	muc	dhaatu	26				to deliver one's self from
+muc	muc	dhaatu	27				to give away
+muc	muc	dhaatu	28				to yield
+muc	muc	dhaatu	29				to open
+muc	muc	dhaatu	30				leave
+muc	muc	dhaatu	31				emit
+muc	muc	dhaatu	32				quit
+muc	muc	dhaatu	33				absolve from
+muc	muc	dhaatu	34				dismiss
+muc	muc	dhaatu	35				throw
+muc	muc	dhaatu	36				deliverance
+muc	muc	dhaatu	37				to abstain from
+muc	muc	dhaatu	38				to unloose
+muc	muc	dhaatu	39				beatitude
+muc	muc	dhaatu	40				delivering from
+muc	muc	dhaatu	41				allow to depart
+muc	muc	dhaatu	42				depose
+muc	muc	dhaatu	43				free
+muc	muc	dhaatu	44				discharging
+muc	muc	dhaatu	45				escape
+muc	muc	dhaatu	46				give up
+muc	muc	dhaatu	47				hurl
+muc	muc	dhaatu	48				liberate
+muc	muc	dhaatu	49				delight
+muc	muc	dhaatu	50				shoot
+muc	muc	dhaatu	51				let loose
+muc	muc	dhaatu	52				abandon
+muc	muc	dhaatu	53				shed
+muc	muc	dhaatu	54				to be about to give up
+muc	muc	dhaatu	55				grant
+muc	muc	dhaatu	56				letting fall
+muc	muc	dhaatu	57				bestow
+muc	muc	dhaatu	58				destitute of
+muc	muc	dhaatu	59				discharge
+muc	muc	dhaatu	60				dropping
+muc	muc	dhaatu	61				despatch
+prakfti	pra-kfti	cpd-praatipadika	0	Name of 2 classes of metres	Name of 2 classes of metres	Nature; at first; by nature; fundamental form; matter; natural form; naturally; nature; primary essences which evolve the whole visible world; properly; the crude; the third nature	temper; temperament
+prakfti	pra-kfti	cpd-praatipadika	1	Name of a class of deities under Manu Raibhya	a co-efficient multiplier	Name of a class of deities under Manu Raibhya; Name of a woman; a eunuch; a goddess; a mother; a woman; an animal; female organ of generation; the male; womankind	Name of a woman; a woman
+prakfti	pra-kfti	cpd-praatipadika	2	Name of work; the 8 producers	Name of a class of deities under Manu Raibhya; Name of a woman; a eunuch; a goddess; a mother; a woman; an animal; female organ of generation; the male; womankind	a king's ministers; citizens; constitution; counsellors; ministry; powers of the state; the body of ministers; the personified will of the Supreme in the creation; the subjects of a king; the various sovereigns to be considered in case of war	a king's ministers; the body of ministers
+prakfti	pra-kfti	cpd-praatipadika	3	Name of a woman; Nature; a goddess; a woman; an animal; at first; by nature; female organ of generation; fundamental form; nature; primary substance	Name of work; artisans; making; model	base; origin; original; original source; root; standard; the original	Nature; nature
+prakfti	pra-kfti	cpd-praatipadika	4	a co-efficient multiplier	cause	affair; character; condition of anything; disposition; extraction; temper; temperament	the subjects of a king
+prakfti	pra-kfti	cpd-praatipadika	5	a king's ministers; citizens; constitution; counsellors; ministry; powers of the state; primary essences which evolve the whole visible world; the body of ministers; the constituent elements; the personified will of the Supreme in the creation; the subjects of a king; the various sovereigns to be considered in case of war	affair; character; condition of anything; disposition; extraction; temper; temperament	Name of work; artisans; making; model; the 8 producers; the original producer of the material world	unalterably
+prakfti	pra-kfti	cpd-praatipadika	6	affair; condition of anything; extraction; matter	Nature; an uninflected word; at first; by nature; elementary form of a word; fundamental form; matter; natural form; naturally; nature; pattern; primary essences which evolve the whole visible world; properly; rule; the crude; the third nature; unalterably	an uninflected word; elementary form of a word; unalterably	original; the original
+prakfti	pra-kfti	cpd-praatipadika	7	an uninflected word; elementary form of a word; natural form; properly; unalterably	base; origin; original; original source; root; standard; the 8 producers; the original; the original producer of the material world	pattern; rule	womankind
+prakfti	pra-kfti	cpd-praatipadika	8	cause	placing before	primary substance; the constituent elements	properly
+prakfti	pra-kfti	cpd-praatipadika	9	a eunuch; a mother; artisans; character; disposition; making; model; temper; temperament; the third nature; womankind	a king's ministers; citizens; constitution; counsellors; ministry; powers of the state; primary substance; the body of ministers; the constituent elements; the personified will of the Supreme in the creation; the subjects of a king; the various sovereigns to be considered in case of war	Name of 2 classes of metres	the original producer of the material world
+prakfti	pra-kfti	cpd-praatipadika	10	naturally; pattern; rule	the predominance of one of the humours at the time of generation	a co-efficient multiplier	rule
+prakfti	pra-kfti	cpd-praatipadika	11	placing before		cause	the various sovereigns to be considered in case of war
+prakfti	pra-kfti	cpd-praatipadika	12	base; origin; original; original source; root; standard; the crude; the male; the original; the original producer of the material world		placing before	the crude
+prakfti	pra-kfti	cpd-praatipadika	13	the predominance of one of the humours at the time of generation		the predominance of one of the humours at the time of generation	the predominance of one of the humours at the time of generation
+prakfti	pra-kfti	cpd-praatipadika	14				model
+prakfti	pra-kfti	cpd-praatipadika	15				the personified will of the Supreme in the creation
+prakfti	pra-kfti	cpd-praatipadika	16				the third nature
+prakfti	pra-kfti	cpd-praatipadika	17				pattern
+prakfti	pra-kfti	cpd-praatipadika	18				primary essences which evolve the whole visible world
+prakfti	pra-kfti	cpd-praatipadika	19				the 8 producers
+prakfti	pra-kfti	cpd-praatipadika	20				primary substance
+prakfti	pra-kfti	cpd-praatipadika	21				origin
+prakfti	pra-kfti	cpd-praatipadika	22				powers of the state
+prakfti	pra-kfti	cpd-praatipadika	23				placing before
+prakfti	pra-kfti	cpd-praatipadika	24				matter
+prakfti	pra-kfti	cpd-praatipadika	25				natural form
+prakfti	pra-kfti	cpd-praatipadika	26				naturally
+prakfti	pra-kfti	cpd-praatipadika	27				standard
+prakfti	pra-kfti	cpd-praatipadika	28				the male
+prakfti	pra-kfti	cpd-praatipadika	29				Name of a class of deities under Manu Raibhya
+prakfti	pra-kfti	cpd-praatipadika	30				at first
+prakfti	pra-kfti	cpd-praatipadika	31				a co-efficient multiplier
+prakfti	pra-kfti	cpd-praatipadika	32				extraction
+prakfti	pra-kfti	cpd-praatipadika	33				the constituent elements
+prakfti	pra-kfti	cpd-praatipadika	34				root
+prakfti	pra-kfti	cpd-praatipadika	35				cause
+prakfti	pra-kfti	cpd-praatipadika	36				female organ of generation
+prakfti	pra-kfti	cpd-praatipadika	37				an animal
+prakfti	pra-kfti	cpd-praatipadika	38				making
+prakfti	pra-kfti	cpd-praatipadika	39				Name of 2 classes of metres
+prakfti	pra-kfti	cpd-praatipadika	40				character
+prakfti	pra-kfti	cpd-praatipadika	41				fundamental form
+prakfti	pra-kfti	cpd-praatipadika	42				Name of work
+prakfti	pra-kfti	cpd-praatipadika	43				counsellors
+prakfti	pra-kfti	cpd-praatipadika	44				citizens
+prakfti	pra-kfti	cpd-praatipadika	45				affair
+prakfti	pra-kfti	cpd-praatipadika	46				artisans
+prakfti	pra-kfti	cpd-praatipadika	47				disposition
+prakfti	pra-kfti	cpd-praatipadika	48				base
+prakfti	pra-kfti	cpd-praatipadika	49				a goddess
+prakfti	pra-kfti	cpd-praatipadika	50				a eunuch
+prakfti	pra-kfti	cpd-praatipadika	51				an uninflected word
+prakfti	pra-kfti	cpd-praatipadika	52				condition of anything
+prakfti	pra-kfti	cpd-praatipadika	53				constitution
+prakfti	pra-kfti	cpd-praatipadika	54				elementary form of a word
+prakfti	pra-kfti	cpd-praatipadika	55				a mother
+prakfti	pra-kfti	cpd-praatipadika	56				ministry
+prakfti	pra-kfti	cpd-praatipadika	57				by nature
+prakfti	pra-kfti	cpd-praatipadika	58				original source
+rUpa	rUpa/	praatipadika	0	Name of a people	Name of a people; Name of a place; a known quantity as having specific form; a particular coin; a word of unknown meaning; absolute number; any form of a noun; integer number; the arithmetical unit; verb; word	a reflection; a single specimen; circumstances; exemplar; feature; mode; peculiarity; phantom shapes; phenomenon; reflection; symptom; that is the organized body	form; handsome form
+rUpa	rUpa/	praatipadika	1	a beast; cattle	a reflection; beauty; colour; figure; image; reflection; the quality of colour	any outward appearance; character; form; grace; handsome form; kind; likeness; manner; mark; material form id est; sign	word
+rUpa	rUpa/	praatipadika	2	a particular coin; that is the organized body	a show; drama; play	a beast; a sound; cattle; dreamy; loveliness; nature; splendour	a reflection; reflection
+rUpa	rUpa/	praatipadika	3	a known quantity as having specific form; absolute number; any form of a noun; integer number; material form id est; the arithmetical unit	a single specimen; circumstances; exemplar; feature; mode; peculiarity; phantom shapes; phenomenon; symptom; that is the organized body	beauty; colour; figure; image; shape; the quality of colour	way
+rUpa	rUpa/	praatipadika	4	a show; a word of unknown meaning; any outward appearance; character; colour; drama; kind; mark; mode; play; sign; the quality of colour; verb; word	a beast; a sound; cattle; dreamy; loveliness; nature; splendour	a known quantity as having specific form; a particular coin; absolute number; any form of a noun; integer number; the arithmetical unit	the arithmetical unit
+rUpa	rUpa/	praatipadika	5	dreamy; grace; loveliness; manner; splendour	any outward appearance; character; form; grace; handsome form; kind; likeness; manner; mark; material form id est; shape; sign	Name of a people; Name of a place; a word of unknown meaning; verb; word	that is the organized body
+rUpa	rUpa/	praatipadika	6	exemplar	known	a show; drama; play	phenomenon
+rUpa	rUpa/	praatipadika	7	known	remark made under particular circumstances when the action is at its height	known	the quality of colour
+rUpa	rUpa/	praatipadika	8	Name of a place; a reflection; a single specimen; a sound; beauty; circumstances; feature; figure; form; handsome form; image; likeness; nature; peculiarity; phantom shapes; phenomenon; reflection; shape; symptom	rereading a book	remark made under particular circumstances when the action is at its height	verb
+rUpa	rUpa/	praatipadika	9	remark made under particular circumstances when the action is at its height	sort	rereading a book	splendour
+rUpa	rUpa/	praatipadika	10	rereading a book	trace of	sort	sign
+rUpa	rUpa/	praatipadika	11	sort	way	trace of	remark made under particular circumstances when the action is at its height
+rUpa	rUpa/	praatipadika	12	trace of		way	shape
+rUpa	rUpa/	praatipadika	13	way			likeness
+rUpa	rUpa/	praatipadika	14				mark
+rUpa	rUpa/	praatipadika	15				rereading a book
+rUpa	rUpa/	praatipadika	16				symptom
+rUpa	rUpa/	praatipadika	17				trace of
+rUpa	rUpa/	praatipadika	18				a sound
+rUpa	rUpa/	praatipadika	19				sort
+rUpa	rUpa/	praatipadika	20				mode
+rUpa	rUpa/	praatipadika	21				phantom shapes
+rUpa	rUpa/	praatipadika	22				integer number
+rUpa	rUpa/	praatipadika	23				character
+rUpa	rUpa/	praatipadika	24				dreamy
+rUpa	rUpa/	praatipadika	25				peculiarity
+rUpa	rUpa/	praatipadika	26				exemplar
+rUpa	rUpa/	praatipadika	27				circumstances
+rUpa	rUpa/	praatipadika	28				kind
+rUpa	rUpa/	praatipadika	29				a word of unknown meaning
+rUpa	rUpa/	praatipadika	30				manner
+rUpa	rUpa/	praatipadika	31				feature
+rUpa	rUpa/	praatipadika	32				a single specimen
+rUpa	rUpa/	praatipadika	33				grace
+rUpa	rUpa/	praatipadika	34				image
+rUpa	rUpa/	praatipadika	35				material form id est
+rUpa	rUpa/	praatipadika	36				play
+rUpa	rUpa/	praatipadika	37				Name of a place
+rUpa	rUpa/	praatipadika	38				a beast
+rUpa	rUpa/	praatipadika	39				a known quantity as having specific form
+rUpa	rUpa/	praatipadika	40				a particular coin
+rUpa	rUpa/	praatipadika	41				loveliness
+rUpa	rUpa/	praatipadika	42				drama
+rUpa	rUpa/	praatipadika	43				known
+rUpa	rUpa/	praatipadika	44				nature
+rUpa	rUpa/	praatipadika	45				any outward appearance
+rUpa	rUpa/	praatipadika	46				a show
+rUpa	rUpa/	praatipadika	47				cattle
+rUpa	rUpa/	praatipadika	48				absolute number
+rUpa	rUpa/	praatipadika	49				Name of a people
+rUpa	rUpa/	praatipadika	50				beauty
+rUpa	rUpa/	praatipadika	51				any form of a noun
+rUpa	rUpa/	praatipadika	52				figure
+rUpa	rUpa/	praatipadika	53				colour
+rasa	ra/sa	praatipadika	0	Name of the number six	Name of the number six	affection; any object of taste; charm; delight; desire; disposition of the heart; finest; flavour; fondness for; inclination; love; mind; taste; the best; the feeling; the taste; the tongue	essential juice of the body; the primary juice called chyle
+rasa	ra/sa	praatipadika	1	Name of the sacred syllable	Name of the sacred syllable	a kind of metre; a metal; a Śanakī; any mineral; gold; mercury; metallic salt; mineral in a state of fusion; resin; the sap; the son of a Niṣāda	a constituent fluid; fluid
+rasa	ra/sa	praatipadika	2	Om	Om	a species of amaranth; broth; condiment; green onion; melted butter; poison; sauce; seasoning; soup; spice	sentiment prevailing in it; the prevailing sentiment in human character
+rasa	ra/sa	praatipadika	3	Vangueria Spinosa	Vangueria Spinosa	essential juice of the body; juice of fruit; juice of plants; juice of the sugar-cane; marrow; nectar; semen virile; syrup; the primary juice called chyle	affection; love
+rasa	ra/sa	praatipadika	4	a constituent fluid; essential juice of the body; fluid; juice of the sugar-cane; semen virile; the primary juice called chyle; the sap	a kind of metre; a metal; a Śanakī; any mineral; gold; mercury; metallic salt; mineral in a state of fusion; resin; the sap; the son of a Niṣāda	a constituent fluid; any liquid; any mixture; draught; drink; fluid; liquor; milk; water	flavour; taste; the taste
+rasa	ra/sa	praatipadika	5	a kind of metre; mineral in a state of fusion; resin	a constituent fluid; any liquid; any mixture; broth; draught; drink; fluid; liquor; marrow; melted butter; milk; serum; soup; syrup; water	character of a work; religious sentiment; sentiment prevailing in it; the prevailing sentiment in human character	the tongue
+rasa	ra/sa	praatipadika	6	a species of amaranth; juice of plants	essential juice of the body; juice of fruit; juice of plants; juice of the sugar-cane; nectar; semen virile; the primary juice called chyle	elixir; essence; potion; serum	juice of fruit; juice of plants; juice of the sugar-cane
+rasa	ra/sa	praatipadika	7	character of a work; religious sentiment; sentiment prevailing in it	affection; any object of taste; charm; delight; desire; disposition of the heart; essence; finest; flavour; fondness for; inclination; love; mind; taste; the best; the feeling; the taste; the tongue	Name of the number six	the feeling
+rasa	ra/sa	praatipadika	8	any liquid; any mineral; any mixture; broth; charm; condiment; draught; drink; elixir; essence; finest; gold; juice of fruit; liquor; love; marrow; melted butter; mercury; metallic salt; milk; poison; potion; sauce; seasoning; serum; soup; syrup; the best; the feeling; the prevailing sentiment in human character; water	myrrh	Name of the sacred syllable	resin
+rasa	ra/sa	praatipadika	9	disposition of the heart; inclination	pleasure	Om	the son of a Niṣāda
+rasa	ra/sa	praatipadika	10	affection; any object of taste; delight; desire; flavour; fondness for; green onion; mind; nectar; spice; taste; the taste; the tongue	prime part of anything	Vangueria Spinosa	syrup
+rasa	ra/sa	praatipadika	11	myrrh	quicksilver	myrrh	the sap
+rasa	ra/sa	praatipadika	12	pleasure	a species of amaranth; condiment; elixir; green onion; poison; potion; sauce; seasoning; spice	pleasure	pleasure
+rasa	ra/sa	praatipadika	13	prime part of anything	character of a work; religious sentiment; sentiment prevailing in it; the prevailing sentiment in human character	prime part of anything	seasoning
+rasa	ra/sa	praatipadika	14	quicksilver		quicksilver	water
+rasa	ra/sa	praatipadika	15	a metal; a Śanakī; the son of a Niṣāda			poison
+rasa	ra/sa	praatipadika	16				the best
+rasa	ra/sa	praatipadika	17				liquor
+rasa	ra/sa	praatipadika	18				quicksilver
+rasa	ra/sa	praatipadika	19				sauce
+rasa	ra/sa	praatipadika	20				serum
+rasa	ra/sa	praatipadika	21				mineral in a state of fusion
+rasa	ra/sa	praatipadika	22				soup
+rasa	ra/sa	praatipadika	23				delight
+rasa	ra/sa	praatipadika	24				fondness for
+rasa	ra/sa	praatipadika	25				nectar
+rasa	ra/sa	praatipadika	26				mind
+rasa	ra/sa	praatipadika	27				inclination
+rasa	ra/sa	praatipadika	28				milk
+rasa	ra/sa	praatipadika	29				spice
+rasa	ra/sa	praatipadika	30				religious sentiment
+rasa	ra/sa	praatipadika	31				any liquid
+rasa	ra/sa	praatipadika	32				melted butter
+rasa	ra/sa	praatipadika	33				prime part of anything
+rasa	ra/sa	praatipadika	34				draught
+rasa	ra/sa	praatipadika	35				Om
+rasa	ra/sa	praatipadika	36				green onion
+rasa	ra/sa	praatipadika	37				metallic salt
+rasa	ra/sa	praatipadika	38				marrow
+rasa	ra/sa	praatipadika	39				a Śanakī
+rasa	ra/sa	praatipadika	40				myrrh
+rasa	ra/sa	praatipadika	41				semen virile
+rasa	ra/sa	praatipadika	42				essence
+rasa	ra/sa	praatipadika	43				Name of the number six
+rasa	ra/sa	praatipadika	44				gold
+rasa	ra/sa	praatipadika	45				any mixture
+rasa	ra/sa	praatipadika	46				potion
+rasa	ra/sa	praatipadika	47				a species of amaranth
+rasa	ra/sa	praatipadika	48				charm
+rasa	ra/sa	praatipadika	49				any mineral
+rasa	ra/sa	praatipadika	50				character of a work
+rasa	ra/sa	praatipadika	51				condiment
+rasa	ra/sa	praatipadika	52				disposition of the heart
+rasa	ra/sa	praatipadika	53				any object of taste
+rasa	ra/sa	praatipadika	54				finest
+rasa	ra/sa	praatipadika	55				a kind of metre
+rasa	ra/sa	praatipadika	56				elixir
+rasa	ra/sa	praatipadika	57				desire
+rasa	ra/sa	praatipadika	58				a metal
+rasa	ra/sa	praatipadika	59				Name of the sacred syllable
+rasa	ra/sa	praatipadika	60				drink
+rasa	ra/sa	praatipadika	61				broth
+rasa	ra/sa	praatipadika	62				mercury
+rasa	ra/sa	praatipadika	63				Vangueria Spinosa
+saha	saha/	avyaya	0	along with; at the same time; conjointly; in common; in company; in concert; in the company of; jointly; simultaneously with; taking with one; to give to take away with one; to take with one with; together with; with	along with; conjointly; simultaneously with; together with; with	in common; in company; in concert; in the company of	in company; in the company of
+saha	saha/	praatipadika	0	Mādrī; Name of a son of Dhṛtarāṣṭra; Name of a son of Kṛṣṇa; Name of a son of Manu; Name of a son of Prāṇa; the month Mārgaśīrṣa; Ūrjasvatī	Mādrī; Name of a son of Dhṛtarāṣṭra; Name of a son of Kṛṣṇa; Name of a son of Manu; Name of a son of Prāṇa; the month Mārgaśīrṣa; Ūrjasvatī	bearing; causing; defying; effecting; enduring; exerting; overcoming; stimulating; vanquishing; withstanding	Ūrjasvatī
+saha	saha/	avyaya	1		at the same time; in common; in company; in concert; in the company of; jointly	at the same time; conjointly; jointly; simultaneously with	taking with one; to take with one with
+saha	saha/	praatipadika	1	a companion; a particular Agni; a species of plant; equal to	a companion; a match for; a particular Agni; a species of plant; equal to	Mādrī; Name of a son of Dhṛtarāṣṭra; Name of a son of Kṛṣṇa; Name of a son of Manu; Name of a son of Prāṇa; the month Mārgaśīrṣa; Ūrjasvatī	withstanding
+saha	saha/	avyaya	2		taking with one; to give to take away with one; to take with one with	along with; together with; with	along with; together with
+saha	saha/	praatipadika	2	able to	bearing; causing; defying; effecting; enduring; exerting; overcoming; stimulating; vanquishing; withstanding	a companion; a match for; a particular Agni; a species of plant; equal to	vanquishing
+saha	saha/	avyaya	3			taking with one; to give to take away with one; to take with one with	simultaneously with
+saha	saha/	praatipadika	3	a match for; bearing; capable of; causing; defying; effecting; enduring; exerting; mighty; overcoming; powerful; stimulating; vanquishing; withstanding	kind of salt	able to; capable of; mighty; powerful	stimulating
+saha	saha/	avyaya	4				with
+saha	saha/	praatipadika	4	kind of salt	able to; capable of; mighty; powerful	kind of salt	overcoming
+saha	saha/	avyaya	5				conjointly
+saha	saha/	praatipadika	5				the month Mārgaśīrṣa
+saha	saha/	avyaya	6				in common
+saha	saha/	praatipadika	6				equal to
+saha	saha/	avyaya	7				in concert
+saha	saha/	praatipadika	7				exerting
+saha	saha/	avyaya	8				jointly
+saha	saha/	praatipadika	8				kind of salt
+saha	saha/	avyaya	9				at the same time
+saha	saha/	praatipadika	9				causing
+saha	saha/	avyaya	10				to give to take away with one
+saha	saha/	praatipadika	10				mighty
+saha	saha/	praatipadika	11				powerful
+saha	saha/	praatipadika	12				defying
+saha	saha/	praatipadika	13				bearing
+saha	saha/	praatipadika	14				Mādrī
+saha	saha/	praatipadika	15				a particular Agni
+saha	saha/	praatipadika	16				Name of a son of Prāṇa
+saha	saha/	praatipadika	17				capable of
+saha	saha/	praatipadika	18				Name of a son of Manu
+saha	saha/	praatipadika	19				a match for
+saha	saha/	praatipadika	20				able to
+saha	saha/	praatipadika	21				a species of plant
+saha	saha/	praatipadika	22				effecting
+saha	saha/	praatipadika	23				Name of a son of Dhṛtarāṣṭra
+saha	saha/	praatipadika	24				enduring
+saha	saha/	praatipadika	25				Name of a son of Kṛṣṇa
+saha	saha/	praatipadika	26				a companion
+sarva	sa/rva	praatipadika	0	Name of Kṛṣṇa; Name of a people; Name of Śiva	Name of a Muni	altogether; completely; entire; whole; wholly	completely; wholly
+sarva	sa/rva	praatipadika	1	Name of a Muni	Name of Kṛṣṇa; Name of a people; Name of Śiva	all; every; everywhere; in all parts	water
+sarva	sa/rva	praatipadika	2	all; altogether; completely; different; entire; every; everywhere; whole; wholly	all; every; everywhere; in all parts	different; of all sorts; various; water	entire; whole
+sarva	sa/rva	praatipadika	3	manifold	manifold	Name of Kṛṣṇa; Name of a people; Name of Śiva	different
+sarva	sa/rva	praatipadika	4	in all parts; of all sorts; various; water	different; of all sorts; various; water	Name of a Muni	every
+sarva	sa/rva	praatipadika	5		altogether; completely; entire; whole; wholly	manifold	manifold
+sarva	sa/rva	praatipadika	6				various
+sarva	sa/rva	praatipadika	7				all
+sarva	sa/rva	praatipadika	8				Name of a people
+sarva	sa/rva	praatipadika	9				Name of Kṛṣṇa
+sarva	sa/rva	praatipadika	10				altogether
+sarva	sa/rva	praatipadika	11				Name of a Muni
+sarva	sa/rva	praatipadika	12				in all parts
+sarva	sa/rva	praatipadika	13				everywhere
+sarva	sa/rva	praatipadika	14				of all sorts
+sarva	sa/rva	praatipadika	15				Name of Śiva
+su	su	dhaatu	0	bring forth; extract; impel; incite; to beget; to distil; to possess supremacy	extract; to distil	move; to go; to press out; to urge	to urge
+su	su/	upasarga	0	any	any	greatly; much; rightly; very; willingly	willingly
+su	su	dhaatu	1	move; to go; to press out; to urge	bring forth; impel; incite; to beget	bring forth; impel; incite	to go
+su	su/	upasarga	1	beautiful	easily; easy; quickly	beautiful; excellent; good; right; well	virtuous
+su	su	dhaatu	2		move; to go; to possess supremacy; to press out; to urge	extract; to distil	to press out
+su	su/	upasarga	2	easily; easy; excellent; good; greatly; much; quickly; right; rightly; very; well; willingly	beautiful; excellent; good; right; well	easily; easy; quickly	well
+su	su	dhaatu	3			to beget; to possess supremacy	to distil
+su	su/	upasarga	3	to become	to become	any	to lengthen a preceding vowel
+su	su	dhaatu	4				to beget
+su	su/	upasarga	4	to lengthen a preceding vowel	to lengthen a preceding vowel	to become	rightly
+su	su	dhaatu	5				to possess supremacy
+su	su/	upasarga	5	virtuous	virtuous	to lengthen a preceding vowel	quickly
+su	su	dhaatu	6				extract
+su	su/	upasarga	6		greatly; much; rightly; very; willingly	virtuous	very
+su	su	dhaatu	7				impel
+su	su/	upasarga	7				to become
+su	su	dhaatu	8				move
+su	su/	upasarga	8				easy
+su	su	dhaatu	9				incite
+su	su/	upasarga	9				right
+su	su	dhaatu	10				bring forth
+su	su/	upasarga	10				good
+su	su/	upasarga	11				any
+su	su/	upasarga	12				much
+su	su/	upasarga	13				beautiful
+su	su/	upasarga	14				easily
+su	su/	upasarga	15				greatly
+su	su/	upasarga	16				excellent
+tad	ta/d	praatipadika	0	Brahma	Brahma	consequently; equally; in this manner; so also; therefore; thither; thus	consequently; therefore; thus
+tad	tad	praatipadika	0	any; every; respective; various; whichsoever; whosoever	different; respective; various	any; every; whichsoever; whosoever	whichsoever; whosoever
+tad	ta/d	praatipadika	1	at that time; to that spot	at that time; with reference to that there are these two verses; with regard to that	for that reason; in that case; now; that; then	with reference to that there are these two verses
+tad	tad	praatipadika	1	different; even then; namely; nevertheless; notwithstanding; that; this	namely; nevertheless; notwithstanding	different; respective; various	this
+tad	ta/d	praatipadika	2	equally; thither; with reference to that there are these two verses	he she it	in that place; on that account; there; to that spot	with regard to that
+tad	tad	praatipadika	2	in other words. From Latin videlicet	any; every; whichsoever; whosoever	namely; nevertheless; notwithstanding	various
+tad	ta/d	praatipadika	3	he she it	consequently; equally; in this manner; so also; therefore; thither; thus	at that time; with reference to that there are these two verses; with regard to that	this world
+tad	tad	praatipadika	3	in such a manner as follows	in other words. From Latin videlicet	even then; that; this	notwithstanding
+tad	ta/d	praatipadika	4	now; so also	for that reason; in that case; in that place; now; on that account; that; then; there; this; this world; to that spot	this; this world	thither
+tad	tad	praatipadika	4	on quite the same path	in such a manner as follows	in other words. From Latin videlicet	every
+tad	ta/d	praatipadika	5	consequently; for that reason; in that case; in that place; in this manner; on that account; that; then; there; therefore; this; this world; thus; with regard to that		Brahma	to that spot
+tad	tad	praatipadika	5		on quite the same path	in such a manner as follows	respective
+tad	ta/d	praatipadika	6			he she it	there
+tad	tad	praatipadika	6		even then; that; this	on quite the same path	that
+tad	ta/d	praatipadika	7				so also
+tad	tad	praatipadika	7				in other words. From Latin videlicet
+tad	ta/d	praatipadika	8				this
+tad	tad	praatipadika	8				namely
+tad	ta/d	praatipadika	9				in that case
+tad	tad	praatipadika	9				any
+tad	ta/d	praatipadika	10				he she it
+tad	tad	praatipadika	10				even then
+tad	ta/d	praatipadika	11				now
+tad	tad	praatipadika	11				on quite the same path
+tad	ta/d	praatipadika	12				then
+tad	tad	praatipadika	12				different
+tad	ta/d	praatipadika	13				equally
+tad	tad	praatipadika	13				in such a manner as follows
+tad	ta/d	praatipadika	14				in this manner
+tad	tad	praatipadika	14				nevertheless
+tad	ta/d	praatipadika	15				Brahma
+tad	ta/d	praatipadika	16				on that account
+tad	ta/d	praatipadika	17				that
+tad	ta/d	praatipadika	18				in that place
+tad	ta/d	praatipadika	19				at that time
+tad	ta/d	praatipadika	20				for that reason
+tatas	ta/tas	praatipadika	0	after that; everywhere; from that place; here; immediately afterwards; that place; to another place than that; to everyplace; what then? what took place after that?	after that; afterwards; at another time; immediately afterwards; what then? what took place after that?	everywhere; from that place; in that place; that place; to another place than that; to everyplace; to some other place; to that place	from that place; in that place; that place
+tatas	ta/tas	praatipadika	1	besides that	besides that; beyond that	besides that; beyond that; for that reason; from that; how is it then that?; in consequence of that	after that; afterwards; immediately afterwards
+tatas	ta/tas	praatipadika	2	afterwards; at another time; beyond that; but; for that reason; from that; how is it then that?; in consequence of that; then	from all sides	consequently; further; hither; thence; thenceforth; thither	besides that; beyond that
+tatas	ta/tas	praatipadika	3	from all sides	everywhere; from that; from that place; in that place; that place; to another place than that; to everyplace; to some other place; to that place	but; here; then; there; thereupon	to another place than that; to some other place; to that place
+tatas	ta/tas	praatipadika	4	consequently; further; hither; in that place; thence; thenceforth; there; thereupon; thither; to some other place; to that place	consequently; further; hither; thence; thenceforth; thither	after that; afterwards; at another time; immediately afterwards; what then? what took place after that?	thence; thenceforth
+tatas	ta/tas	praatipadika	5		but; for that reason; here; how is it then that?; in consequence of that; then; there; thereupon	from all sides	what then? what took place after that?
+tatas	ta/tas	praatipadika	6				then
+tatas	ta/tas	praatipadika	7				from all sides
+tatas	ta/tas	praatipadika	8				thereupon
+tatas	ta/tas	praatipadika	9				how is it then that?
+tatas	ta/tas	praatipadika	10				thither
+tatas	ta/tas	praatipadika	11				for that reason
+tatas	ta/tas	praatipadika	12				to everyplace
+tatas	ta/tas	praatipadika	13				hither
+tatas	ta/tas	praatipadika	14				in consequence of that
+tatas	ta/tas	praatipadika	15				at another time
+tatas	ta/tas	praatipadika	16				but
+tatas	ta/tas	praatipadika	17				from that
+tatas	ta/tas	praatipadika	18				here
+tatas	ta/tas	praatipadika	19				consequently
+tatas	ta/tas	praatipadika	20				everywhere
+tatas	ta/tas	praatipadika	21				further
+tatas	ta/tas	praatipadika	22				there
+tu	tu	dhaatu	0	be strong; to have authority; to injure; to make strong	efficient	be strong; to make strong	to make strong
+tu	tu/	avyaya	0	Latindum used; often incorrectly written for; sometimes used as a mere expletive	Latindum used; often incorrectly written for; sometimes used as a mere expletive	but; nevertheless; now; still; then; though — still	nevertheless; still
+tu	tu	dhaatu	1	efficient	to go	to have authority; to injure	to injure
+tu	tu/	avyaya	1	but; certainly — but; nevertheless; not — however; now; still; then; though — still; though — still not	do	certainly — but; it is true — but not; not — but; not — however; though — still not	then
+tu	tu	dhaatu	2	to go	to have authority; to injure	efficient	to go
+tu	tu/	avyaya	2	do	ere - than; ere — than	Latindum used; often incorrectly written for; sometimes used as a mere expletive	though — still; though — still not
+tu	tu	dhaatu	3		be strong; to make strong	to go	efficient
+tu	tu/	avyaya	3	ere - than; ere — than; it is true — but not; not — but	certainly — but; it is true — but not; not — but; not — however	ere - than; ere — than	pray! I beg
+tu	tu	dhaatu	4				to have authority
+tu	tu/	avyaya	4	pray! I beg	pray! I beg	do	not — however
+tu	tu	dhaatu	5				be strong
+tu	tu/	avyaya	5		but; nevertheless; now; still; then; though — still; though — still not	pray! I beg	ere - than; ere — than
+tu	tu/	avyaya	6				sometimes used as a mere expletive
+tu	tu/	avyaya	7				it is true — but not
+tu	tu/	avyaya	8				now
+tu	tu/	avyaya	9				Latindum used
+tu	tu/	avyaya	10				do
+tu	tu/	avyaya	11				often incorrectly written for
+tu	tu/	avyaya	12				certainly — but
+tu	tu/	avyaya	13				but
+tu	tu/	avyaya	14				not — but
+uttara	u/t-tara	cpd-praatipadika	0	crossing over; to be crossed	crossing over; to be crossed	crossing over; to be crossed	to be crossed
+uttara	u/ttara	praatipadika	0	Name of a king of the Nāgas; Name of a mountain; Name of a school; Name of a son of Virāṭa	Name of a king of the Nāgas; Name of a mountain; Name of a school; Name of a son of Virāṭa	better; contradiction; difference; excellent; higher; later; latter; more excellent; more powerful; superior	a defence; a defensive measure
+uttara	u/t-tara	cpd-praatipadika	1				crossing over
+uttara	u/ttara	praatipadika	1	Name of a song	Name of a song	concluding; conclusion; followed by; following; posterior; remainder; result; subsequent; the last part of a compound; what remains	concluding; conclusion
+uttara	u/ttara	praatipadika	2	Name of each of the Nakṣatras that contain the word uttara	Name of each of the Nakṣatras that contain the word uttara	a defence; a defensive measure; answer; cover; future; rejoinder; reply; the answer	is left; left
+uttara	u/ttara	praatipadika	3	Name of the last book of the Rāmāyaṇa	Name of the last book of the Rāmāyaṇa	above; is left; left; northern; over; the north; upper; upper surface	what remains
+uttara	u/ttara	praatipadika	4	a defence; a defensive measure; characteristic; competency; cover; rejoinder; reply; the answer	a particular figure in rhetoric	characteristic; competency; dominant; excellence; excess; predominant; prevalent result; superiority	chief; the chief
+uttara	u/ttara	praatipadika	5	a particular figure in rhetoric	a defence; a defensive measure; characteristic; competency; cover; excellence; superiority	Name of a king of the Nāgas; Name of a mountain; Name of a school; Name of a son of Virāṭa	northern; the north
+uttara	u/ttara	praatipadika	6	chief; excellence; of several men; predominant; prevalent result; superiority; the chief	answer; concluding; conclusion; followed by; following; future; posterior; rejoinder; remainder; reply; result; subsequent; the answer; the last part of a compound; what remains	chief; of several men; the chief; the following member	reply
+uttara	u/ttara	praatipadika	7	contradiction; difference	gaining a cause	Name of a song	upper surface
+uttara	u/ttara	praatipadika	8	followed by; following; future; more excellent; more powerful; posterior	above; excess; is left; left; northern; over; the north; upper; upper surface	Name of each of the Nakṣatras that contain the word uttara	the answer
+uttara	u/ttara	praatipadika	9	gaining a cause	better; contradiction; difference; excellent; higher; later; latter; more excellent; more powerful; superior	Name of the last book of the Rāmāyaṇa	prevalent result
+uttara	u/ttara	praatipadika	10	left; the following member	chief; dominant; of several men; predominant; prevalent result; the chief; the following member	a particular figure in rhetoric	upper
+uttara	u/ttara	praatipadika	11	concluding; conclusion; is left; remainder; result; the last part of a compound; what remains		gaining a cause	the following member
+uttara	u/ttara	praatipadika	12	above; answer; better; dominant; excellent; excess; higher; later; latter; northern; over; subsequent; superior; the north; upper; upper surface			superior
+uttara	u/ttara	praatipadika	13				more excellent
+uttara	u/ttara	praatipadika	14				of several men
+uttara	u/ttara	praatipadika	15				the last part of a compound
+uttara	u/ttara	praatipadika	16				future
+uttara	u/ttara	praatipadika	17				following
+uttara	u/ttara	praatipadika	18				remainder
+uttara	u/ttara	praatipadika	19				more powerful
+uttara	u/ttara	praatipadika	20				posterior
+uttara	u/ttara	praatipadika	21				result
+uttara	u/ttara	praatipadika	22				subsequent
+uttara	u/ttara	praatipadika	23				gaining a cause
+uttara	u/ttara	praatipadika	24				later
+uttara	u/ttara	praatipadika	25				cover
+uttara	u/ttara	praatipadika	26				Name of a mountain
+uttara	u/ttara	praatipadika	27				excellence
+uttara	u/ttara	praatipadika	28				latter
+uttara	u/ttara	praatipadika	29				Name of a song
+uttara	u/ttara	praatipadika	30				excess
+uttara	u/ttara	praatipadika	31				superiority
+uttara	u/ttara	praatipadika	32				predominant
+uttara	u/ttara	praatipadika	33				Name of a king of the Nāgas
+uttara	u/ttara	praatipadika	34				Name of a school
+uttara	u/ttara	praatipadika	35				Name of a son of Virāṭa
+uttara	u/ttara	praatipadika	36				characteristic
+uttara	u/ttara	praatipadika	37				over
+uttara	u/ttara	praatipadika	38				difference
+uttara	u/ttara	praatipadika	39				contradiction
+uttara	u/ttara	praatipadika	40				higher
+uttara	u/ttara	praatipadika	41				excellent
+uttara	u/ttara	praatipadika	42				competency
+uttara	u/ttara	praatipadika	43				Name of each of the Nakṣatras that contain the word uttara
+uttara	u/ttara	praatipadika	44				followed by
+uttara	u/ttara	praatipadika	45				a particular figure in rhetoric
+uttara	u/ttara	praatipadika	46				rejoinder
+uttara	u/ttara	praatipadika	47				better
+uttara	u/ttara	praatipadika	48				answer
+uttara	u/ttara	praatipadika	49				dominant
+uttara	u/ttara	praatipadika	50				above
+uttara	u/ttara	praatipadika	51				Name of the last book of the Rāmāyaṇa
+vac	vac	dhaatu	0	accounted; be regarded as	pass for	be regarded as; revile; to be called; to be meant; to call; to cause anything written; to cause to say; to desire to say; to promise; to reproach	to cause anything written; to cause to say
+vac	vac	dhaatu	1	describe	cry aloud; pronounce; recite; speak; to read out loud; to resound	cry aloud; pronounce; recite; speak; to be spoken; to read out loud; to resound; to speak	to be called; to call
+vac	vac	dhaatu	2	pass for	accounted; announce; declare; describe; mention; proclaim; tell	describe; said; say; tell; to say; told; what the saying is	to be spoken; to speak
+vac	vac	dhaatu	3	proclaim; pronounce; recite; revile; to cause anything written; to read out loud	be regarded as; revile; to be called; to be meant; to call; to cause anything written; to cause to say; to desire to say; to promise; to reproach	accounted; announce; declare; mention; proclaim; utter; uttered	what the saying is
+vac	vac	dhaatu	4	announce; cry aloud; declare; mention; said; say; speak; tell; to be called; to be meant; to be spoken; to call; to cause to say; to desire to say; to promise; to reproach; to resound; to say; to speak; told; utter; uttered; what the saying is	said; say; to be spoken; to say; to speak; told; utter; uttered; what the saying is	pass for	to reproach
+vac	vac	dhaatu	5				utter
+vac	vac	dhaatu	6				to say
+vac	vac	dhaatu	7				to read out loud
+vac	vac	dhaatu	8				uttered
+vac	vac	dhaatu	9				to be meant
+vac	vac	dhaatu	10				to desire to say
+vac	vac	dhaatu	11				told
+vac	vac	dhaatu	12				proclaim
+vac	vac	dhaatu	13				tell
+vac	vac	dhaatu	14				to resound
+vac	vac	dhaatu	15				be regarded as
+vac	vac	dhaatu	16				to promise
+vac	vac	dhaatu	17				pronounce
+vac	vac	dhaatu	18				say
+vac	vac	dhaatu	19				accounted
+vac	vac	dhaatu	20				recite
+vac	vac	dhaatu	21				describe
+vac	vac	dhaatu	22				revile
+vac	vac	dhaatu	23				pass for
+vac	vac	dhaatu	24				speak
+vac	vac	dhaatu	25				announce
+vac	vac	dhaatu	26				declare
+vac	vac	dhaatu	27				cry aloud
+vac	vac	dhaatu	28				said
+vac	vac	dhaatu	29				mention
+yoga	yo/ga	praatipadika	0	Name of a  on the Paramārthasāra; a constellation; principal star of a lunar asterism	Name of a variable division of time	a violator of confidence; according to; acquiesce in anything; any simple act; by reason of; consent; conveyance; diligence; disposition; endeavour; manner; occasion; on account of; partaking of; possessing; propriety; the act of yoking; the leading; to agree; undertaking	mixing of various materials; mixture
+yoga	yo/ga	praatipadika	1	Name of a variable division of time	business; construction; employment; industry; opportunity; profit; suitability; wealth; work	Yoga personified; a follower of the Yoga system; abstract contemplation; abstract meditation; aphorism; attention; care; concentration of the thoughts; devotion; meditation; mental abstraction practised as a system; pious seeking after God; rite conducive to Yoga; self-concentration; the union of soul with matter; the union of the individual soul with the universal soul	sum; total
+yoga	yo/ga	praatipadika	2	Yoga personified; magical art; rite conducive to Yoga	Name of a  on the Paramārthasāra; a constellation; a means; a supernatural means; a yoke; asterism; concentrated grammatical rule; etymological meaning; principal star of a lunar asterism; syntactical dependence of a word; the connection of a word with its root; the connection of words together	a remedy; a trick; charm; cure; deceit; fraud; incantation; magical art; method; spy; stratagem; zeal	a remedy; cure
+yoga	yo/ga	praatipadika	3	a combined; a remedy; a yoke; any junction; arraying; combination; concentrated grammatical rule; lucky conjuncture; mixing of various materials; mixing with the outer world; sum; total	at the end of a compound in consequence of	any junction; arrangement; attaching; equipping; fitting together; fixing; joining; putting on; putting to; putting together; team; union	fitting together; putting together
+yoga	yo/ga	praatipadika	4	a trick; a violator of confidence; any simple act; fraud; spy; suitability	a violator of confidence; according to; acquiesce in anything; acquisition; any simple act; by reason of; consent; conveyance; diligence; disposition; endeavour; manner; occasion; on account of; partaking of; possessing; property; propriety; the act of yoking; the leading; to agree; undertaking	Name of a  on the Paramārthasāra; a constellation; a means; a supernatural means; asterism; concentrated grammatical rule; etymological meaning; principal star of a lunar asterism; syntactical dependence of a word; the connection of a word with its root; the connection of words together	the union of soul with matter; the union of the individual soul with the universal soul
+yoga	yo/ga	praatipadika	5	according to; on account of	any junction; application; arrangement; attaching; connection; contact; contact with; device; equipping; expedient; fitting together; fixing; harnessing; joining; putting on; putting to; putting together; relation; team; through; union; use; vehicle; way	a combined; addition; arraying; combination; conjunction; lucky conjuncture; mixing of various materials; mixing with the outer world; mixture; sum; total	zeal
+yoga	yo/ga	praatipadika	6	a follower of the Yoga system; abstract meditation; aphorism; deceit; mental abstraction practised as a system; pious seeking after God; stratagem; the union of the individual soul with the universal soul	a remedy; a trick; charm; cure; deceit; fraud; incantation; magical art; method; spy; stratagem; zeal	acquisition; business; construction; employment; industry; opportunity; profit; property; suitability; wealth; work	to agree
+yoga	yo/ga	praatipadika	7	at the end of a compound in consequence of	original	application; connection; contact; contact with; expedient; relation; through; use; way	vehicle
+yoga	yo/ga	praatipadika	8	attention; business; by reason of; care; charm; concentration of the thoughts; conjunction; contact; contact with; cure; device; employment; expedient; fitness; gain; industry; manner; meditation; performance; relation; self-concentration; the union of soul with matter; through; use; vehicle; way; wealth; work; zeal	regular succession	a yoke; device; exertion; fitness; gain; harnessing; performance; vehicle	Yoga personified; a follower of the Yoga system
+yoga	yo/ga	praatipadika	9	a means; a supernatural means; asterism; etymological meaning; syntactical dependence of a word; the connection of a word with its root; the connection of words together	Yoga personified; a follower of the Yoga system; abstract contemplation; abstract meditation; aphorism; attention; care; concentration of the thoughts; devotion; exertion; fitness; gain; meditation; mental abstraction practised as a system; performance; pious seeking after God; rite conducive to Yoga; self-concentration; the union of soul with matter; the union of the individual soul with the universal soul	Name of a variable division of time	abstract meditation; meditation
+yoga	yo/ga	praatipadika	10	original	a combined; addition; arraying; combination; conjunction; lucky conjuncture; mixing of various materials; mixing with the outer world; mixture; sum; total	at the end of a compound in consequence of	contact; contact with
+yoga	yo/ga	praatipadika	11	regular succession		original	union
+yoga	yo/ga	praatipadika	12	abstract contemplation; acquiesce in anything; acquisition; addition; application; arrangement; attaching; connection; consent; construction; conveyance; devotion; diligence; disposition; endeavour; equipping; exertion; fitting together; fixing; harnessing; incantation; joining; method; mixture; occasion; opportunity; partaking of; possessing; profit; property; propriety; putting on; putting to; putting together; team; the act of yoking; the leading; to agree; undertaking; union		regular succession	rite conducive to Yoga
+yoga	yo/ga	praatipadika	13				through
+yoga	yo/ga	praatipadika	14				the leading
+yoga	yo/ga	praatipadika	15				the act of yoking
+yoga	yo/ga	praatipadika	16				relation
+yoga	yo/ga	praatipadika	17				work
+yoga	yo/ga	praatipadika	18				wealth
+yoga	yo/ga	praatipadika	19				principal star of a lunar asterism
+yoga	yo/ga	praatipadika	20				way
+yoga	yo/ga	praatipadika	21				syntactical dependence of a word
+yoga	yo/ga	praatipadika	22				possessing
+yoga	yo/ga	praatipadika	23				undertaking
+yoga	yo/ga	praatipadika	24				regular succession
+yoga	yo/ga	praatipadika	25				putting to
+yoga	yo/ga	praatipadika	26				endeavour
+yoga	yo/ga	praatipadika	27				stratagem
+yoga	yo/ga	praatipadika	28				the connection of words together
+yoga	yo/ga	praatipadika	29				occasion
+yoga	yo/ga	praatipadika	30				team
+yoga	yo/ga	praatipadika	31				method
+yoga	yo/ga	praatipadika	32				magical art
+yoga	yo/ga	praatipadika	33				manner
+yoga	yo/ga	praatipadika	34				performance
+yoga	yo/ga	praatipadika	35				profit
+yoga	yo/ga	praatipadika	36				suitability
+yoga	yo/ga	praatipadika	37				self-concentration
+yoga	yo/ga	praatipadika	38				industry
+yoga	yo/ga	praatipadika	39				mixing with the outer world
+yoga	yo/ga	praatipadika	40				opportunity
+yoga	yo/ga	praatipadika	41				partaking of
+yoga	yo/ga	praatipadika	42				use
+yoga	yo/ga	praatipadika	43				original
+yoga	yo/ga	praatipadika	44				putting on
+yoga	yo/ga	praatipadika	45				etymological meaning
+yoga	yo/ga	praatipadika	46				care
+yoga	yo/ga	praatipadika	47				the connection of a word with its root
+yoga	yo/ga	praatipadika	48				deceit
+yoga	yo/ga	praatipadika	49				pious seeking after God
+yoga	yo/ga	praatipadika	50				incantation
+yoga	yo/ga	praatipadika	51				at the end of a compound in consequence of
+yoga	yo/ga	praatipadika	52				exertion
+yoga	yo/ga	praatipadika	53				any simple act
+yoga	yo/ga	praatipadika	54				attention
+yoga	yo/ga	praatipadika	55				aphorism
+yoga	yo/ga	praatipadika	56				a violator of confidence
+yoga	yo/ga	praatipadika	57				application
+yoga	yo/ga	praatipadika	58				on account of
+yoga	yo/ga	praatipadika	59				fraud
+yoga	yo/ga	praatipadika	60				fitness
+yoga	yo/ga	praatipadika	61				property
+yoga	yo/ga	praatipadika	62				fixing
+yoga	yo/ga	praatipadika	63				any junction
+yoga	yo/ga	praatipadika	64				disposition
+yoga	yo/ga	praatipadika	65				acquiesce in anything
+yoga	yo/ga	praatipadika	66				charm
+yoga	yo/ga	praatipadika	67				equipping
+yoga	yo/ga	praatipadika	68				diligence
+yoga	yo/ga	praatipadika	69				concentrated grammatical rule
+yoga	yo/ga	praatipadika	70				arraying
+yoga	yo/ga	praatipadika	71				connection
+yoga	yo/ga	praatipadika	72				a means
+yoga	yo/ga	praatipadika	73				joining
+yoga	yo/ga	praatipadika	74				construction
+yoga	yo/ga	praatipadika	75				propriety
+yoga	yo/ga	praatipadika	76				according to
+yoga	yo/ga	praatipadika	77				acquisition
+yoga	yo/ga	praatipadika	78				expedient
+yoga	yo/ga	praatipadika	79				harnessing
+yoga	yo/ga	praatipadika	80				gain
+yoga	yo/ga	praatipadika	81				device
+yoga	yo/ga	praatipadika	82				a trick
+yoga	yo/ga	praatipadika	83				arrangement
+yoga	yo/ga	praatipadika	84				conjunction
+yoga	yo/ga	praatipadika	85				spy
+yoga	yo/ga	praatipadika	86				conveyance
+yoga	yo/ga	praatipadika	87				asterism
+yoga	yo/ga	praatipadika	88				consent
+yoga	yo/ga	praatipadika	89				lucky conjuncture
+yoga	yo/ga	praatipadika	90				mental abstraction practised as a system
+yoga	yo/ga	praatipadika	91				Name of a  on the Paramārthasāra
+yoga	yo/ga	praatipadika	92				devotion
+yoga	yo/ga	praatipadika	93				addition
+yoga	yo/ga	praatipadika	94				a yoke
+yoga	yo/ga	praatipadika	95				attaching
+yoga	yo/ga	praatipadika	96				combination
+yoga	yo/ga	praatipadika	97				a supernatural means
+yoga	yo/ga	praatipadika	98				by reason of
+yoga	yo/ga	praatipadika	99				abstract contemplation
+yoga	yo/ga	praatipadika	100				business
+yoga	yo/ga	praatipadika	101				employment
+yoga	yo/ga	praatipadika	102				concentration of the thoughts
+yoga	yo/ga	praatipadika	103				Name of a variable division of time
+yoga	yo/ga	praatipadika	104				a combined
+yoga	yo/ga	praatipadika	105				a constellation
+yuj	yu/j	dhaatu	0	a pair; being in couples; couple; dual; pairs; the number two; the two Aśvins	a pair; being in couples; couple; dual; pairs; the number two; the two Aśvins	a pair; being in couples; couple; dual; pairs; the number two; the two Aśvins	bestowing; granting
+yuj	yuj	dhaatu	0	accomplish; adjust; apply; arrange; attack; be absorbed in meditation; belong to; bestow anything upon; carry on; concentrate; deserve to be; draw up; embrace; employ; esteem lightly; fall to the lot of; fit out; furnish; harnessed; not to be fit; perform; possessed of; prepare; prepared for; put to; recall; restore; set to work; to aim at; to be fit; to be yoked; to command; to fasten on; to harness; to put on; to recollect; to set; to think little of; to turn; to urge; to wish to be absorbed in meditation; to wish to fix or aim; to wish to harness; undertake; unite; yoke; yoke with	despise	bestow anything upon; carry on; conjunction with; deserve to be; devout; endow with; esteem lightly; furnish; impel to; possessed of; provide with; to accrue to; to appoint or to charge or intrust with; to ascertain or know the conjunction of the moon with an asterism; to attach one's self to; to be endowed with; to bring into possession of; to come into conjunction with; to confer anything upon; to encompass; to endow; to urge; to wish to appoint or institute; undertake	bring together; unite
+yuj	yu/j	dhaatu	1	a sage who devotes his time to abstract contemplation	a sage who devotes his time to abstract contemplation	bestowing; furnished or provided or filled with; granting; possessed of	yoked
+yuj	yuj	dhaatu	1	despise	direct	apply; arrange; attack; belong to; bring or put together; bring together; combine; connect; embrace; enjoin; fall to the lot of; join; joined; perform; to be united in marriage; to come into union; to confer; to join; to join one's self to; to mix with; to put in order; unite	to fasten on; to put on
+yuj	yu/j	dhaatu	2	a yoke-fellow	affected by	associate; companion; comrade	a pair; pairs
+yuj	yuj	dhaatu	2	direct	accomplish; adjust; arrange; attack; bring or put together; draw up; employ; fix; help to; inject; insert; perform; put to; repair; set to work; to command; to fix in; to put in order; to set; to wish to fix or aim; use	be fitted for; draw up; fit out; not to be fit; prepare; prepared for; proper; proper for; right; suit any one; suit anything; suitable; to be fit; to be made ready; to equip; to make ready; to put on	bestow anything upon; to confer anything upon
+yuj	yu/j	dhaatu	3	affected by	an exciter	a yoke-fellow; harnessed; yoked	possessed of
+yuj	yuj	dhaatu	3	add; connect; help to; impel to; inject; insert; join; joined; to join	add; apply; belong to; bring together; combine; connect; embrace; enjoin; fall to the lot of; join; joined; to be united in marriage; to come into union; to confer; to join; to join one's self to; unite	accomplish; adjust; employ; fix; help to; put to; repair; set to work; to fix in; to set; to wish to fix or aim; use	fix; repair; to fix in
+yuj	yu/j	dhaatu	4	an exciter	associate; bestowing; companion; comrade; furnished or provided or filled with; granting	a sage who devotes his time to abstract contemplation	the two Aśvins
+yuj	yuj	dhaatu	4	be fitted for; devout; fix; proper; proper for; repair; right; suit any one; suit anything; suitable; to offer; use	be fitted for; fit out; harnessed; not to be fit; prepare; prepared for; proper; proper for; right; suit any one; suit anything; suitable; to aim at; to be fit; to be made ready; to be yoked; to equip; to fasten on; to harness; to make ready; to mix with; to put on; to turn; to use; yoke; yoke with	harnessed; to aim at; to be yoked; to command; to fasten on; to harness; to lead towards; to turn; to use; to wish to harness; yoke; yoke with	harnessed; to harness; to wish to harness
+yuj	yu/j	dhaatu	5	associate; comrade	drawn by	affected by	dual
+yuj	yuj	dhaatu	5	bring or put together; bring together; combine; conjunction with; endow with; enjoin; provide with; to accrue to; to appoint or to charge or intrust with; to ascertain or know the conjunction of the moon with an asterism; to attach one's self to; to be endowed with; to be made ready; to be united in marriage; to bring into possession of; to come into conjunction with; to come into union; to concentrate the mind in order to obtain union with the Universal Spirit; to confer; to confer anything upon; to encompass; to endow; to equip; to fix in; to join one's self to; to lead towards; to make ready; to mix with; to put in order; to use; to wish to appoint or institute	bestow anything upon; carry on; conjunction with; deserve to be; devout; endow with; esteem lightly; furnish; impel to; possessed of; provide with; to accrue to; to appoint or to charge or intrust with; to ascertain or know the conjunction of the moon with an asterism; to attach one's self to; to be endowed with; to bring into possession of; to come into conjunction with; to confer anything upon; to encompass; to endow; to lead towards; to offer; to urge; to wish to appoint or institute; to wish to harness; undertake	be absorbed in meditation; concentrate; recall; restore; to concentrate the mind in order to obtain union with the Universal Spirit; to recollect; to think little of; to wish to be absorbed in meditation	prepare; prepared for; to be made ready; to make ready
+yuj	yu/j	dhaatu	6	drawn by	even	an exciter	the zodiacal sign Gemini
+yuj	yuj	dhaatu	6		be absorbed in meditation; concentrate; recall; restore; to concentrate the mind in order to obtain union with the Universal Spirit; to recollect; to think little of; to wish to be absorbed in meditation	add; inject; insert; to offer	not to be fit; to be fit
+yuj	yu/j	dhaatu	7	even	exciting	drawn by	furnished or provided or filled with
+yuj	yuj	dhaatu	7			despise	to use; use
+yuj	yu/j	dhaatu	8	exciting	joined	even	joined
+yuj	yuj	dhaatu	8			direct	to wish to appoint or institute
+yuj	yu/j	dhaatu	9	companion; furnished or provided or filled with	the zodiacal sign Gemini	exciting	the number two
+yuj	yuj	dhaatu	9				suit any one; suit anything
+yuj	yu/j	dhaatu	10	joined	a yoke-fellow; harnessed; possessed of; yoked	joined	drawn by
+yuj	yuj	dhaatu	10				conjunction with; to come into conjunction with
+yuj	yu/j	dhaatu	11	bestowing; granting; harnessed; possessed of; yoked		the zodiacal sign Gemini	a sage who devotes his time to abstract contemplation
+yuj	yuj	dhaatu	11				suitable
+yuj	yu/j	dhaatu	12	the zodiacal sign Gemini			affected by
+yuj	yuj	dhaatu	12				to offer
+yuj	yu/j	dhaatu	13				companion
+yuj	yuj	dhaatu	13				proper; proper for
+yuj	yu/j	dhaatu	14				being in couples
+yuj	yuj	dhaatu	14				yoke; yoke with
+yuj	yu/j	dhaatu	15				exciting
+yuj	yuj	dhaatu	15				to lead towards
+yuj	yu/j	dhaatu	16				comrade
+yuj	yuj	dhaatu	16				be absorbed in meditation; to wish to be absorbed in meditation
+yuj	yu/j	dhaatu	17				associate
+yuj	yuj	dhaatu	17				to mix with
+yuj	yu/j	dhaatu	18				even
+yuj	yuj	dhaatu	18				to come into union
+yuj	yu/j	dhaatu	19				an exciter
+yuj	yuj	dhaatu	19				to appoint or to charge or intrust with
+yuj	yu/j	dhaatu	20				harnessed
+yuj	yuj	dhaatu	20				to wish to fix or aim
+yuj	yu/j	dhaatu	21				couple
+yuj	yuj	dhaatu	21				to attach one's self to; to join one's self to
+yuj	yu/j	dhaatu	22				a yoke-fellow
+yuj	yuj	dhaatu	22				join; to join
+yuj	yuj	dhaatu	23				provide with
+yuj	yuj	dhaatu	24				insert
+yuj	yuj	dhaatu	25				direct
+yuj	yuj	dhaatu	26				put to
+yuj	yuj	dhaatu	27				to command
+yuj	yuj	dhaatu	28				endow with; to endow
+yuj	yuj	dhaatu	29				to confer
+yuj	yuj	dhaatu	30				to set
+yuj	yuj	dhaatu	31				to concentrate the mind in order to obtain union with the Universal Spirit
+yuj	yuj	dhaatu	32				to equip
+yuj	yuj	dhaatu	33				undertake
+yuj	yuj	dhaatu	34				to think little of
+yuj	yuj	dhaatu	35				to be yoked
+yuj	yuj	dhaatu	36				impel to
+yuj	yuj	dhaatu	37				to bring into possession of
+yuj	yuj	dhaatu	38				joined
+yuj	yuj	dhaatu	39				restore
+yuj	yuj	dhaatu	40				carry on
+yuj	yuj	dhaatu	41				despise
+yuj	yuj	dhaatu	42				to encompass
+yuj	yuj	dhaatu	43				to recollect
+yuj	yuj	dhaatu	44				esteem lightly
+yuj	yuj	dhaatu	45				to put in order
+yuj	yuj	dhaatu	46				perform
+yuj	yuj	dhaatu	47				devout
+yuj	yuj	dhaatu	48				help to
+yuj	yuj	dhaatu	49				deserve to be
+yuj	yuj	dhaatu	50				furnish
+yuj	yuj	dhaatu	51				bring or put together
+yuj	yuj	dhaatu	52				connect
+yuj	yuj	dhaatu	53				belong to
+yuj	yuj	dhaatu	54				concentrate
+yuj	yuj	dhaatu	55				right
+yuj	yuj	dhaatu	56				adjust
+yuj	yuj	dhaatu	57				add
+yuj	yuj	dhaatu	58				to turn
+yuj	yuj	dhaatu	59				fall to the lot of
+yuj	yuj	dhaatu	60				possessed of
+yuj	yuj	dhaatu	61				accomplish
+yuj	yuj	dhaatu	62				to ascertain or know the conjunction of the moon with an asterism
+yuj	yuj	dhaatu	63				draw up
+yuj	yuj	dhaatu	64				to aim at
+yuj	yuj	dhaatu	65				to accrue to
+yuj	yuj	dhaatu	66				enjoin
+yuj	yuj	dhaatu	67				apply
+yuj	yuj	dhaatu	68				to urge
+yuj	yuj	dhaatu	69				to be endowed with
+yuj	yuj	dhaatu	70				inject
+yuj	yuj	dhaatu	71				embrace
+yuj	yuj	dhaatu	72				to be united in marriage
+yuj	yuj	dhaatu	73				employ
+yuj	yuj	dhaatu	74				be fitted for
+yuj	yuj	dhaatu	75				set to work
+yuj	yuj	dhaatu	76				combine
+yuj	yuj	dhaatu	77				arrange
+yuj	yuj	dhaatu	78				fit out
+yuj	yuj	dhaatu	79				attack
+yuj	yuj	dhaatu	80				recall
